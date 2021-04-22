@@ -1,0 +1,23 @@
+Senior Data Scientist 
+Carrypicker
+Aufgaben
+Du nutzt neueste Methoden aus dem Umfeld von KI, um die Profitabilität von LKW-Transporten zu steigern und den CO2 Ausstoß dadurch maßgeblich zu senken.
+Du bist ein "Lösungsfinder" wenn es darum geht, experimentelle Forschungsergebnisse fit für das alltägliche Logistikumfeld zu machen.
+Du arbeitest im Schulterschluss mit dem Projektmanagement an der Definition und Umsetzung von qualitativen und quantitativen Zielen, um die Weiterentwicklung unserer innovativen Logistikplattform permanent voranzutreiben.
+Qualifikation
+Grundsätzliche Qualifikationen:
+Abgeschlossenes Studium mit analytisch-quantitativer Ausrichtung sowie mehrjährige Berufserfahrung in der Durchführung von Data Science Projekten in Wirtschaftsunternehmen.
+Erfahrung in der Modellierung realer Fragestellung und deren Lösung mittels mathematischer Methoden
+Ausgeprägtes Methodenwissen in Statistik und Machine Learning und/oder kombinatorischer Optimierung
+Sicherer Umgang mit Python
+Selbstständige und eigenverantwortliche Arbeitsweise, ausgeprägtes unternehmerisches Denken sowie hohe Teamfähigkeit
+Gute Deutsch- und Englischkenntnisse
+Weitere hilfreiche Qualifikationen:
+Erfahrung im Umgang mit PostgreSQL und MongoDB
+Kenntnisse in Softwareentwicklung und zugehöriger Tools (z. B. Git, Docker, Kubernetes)
+Sicherer Umgang mit dem Betriebssystem Unix (insb. Kommandozeilen-orientierte Shell)
+Erfahrung im Logistikbereich
+Benefits
+Nachhaltigkeit, Transparenz und der Mut neue Arbeitsweisen auszuprobieren sind unsere wichtigsten Werte. Wir sind ein Team aus Software-, Data- und Logistik-Experten, die mit höchstem Anspruch und größter Konzentration daran arbeiten die Logistikwelt sauberer und effizienter zu machen.
+Unser Team ist angetreten, um neue Wege zu gehen und einen Unterschied zu machen. Und da unerforschte Wege oft auch erst einmal holprig sind, wird bei Carrypicker eine offene und direkte Fehlerkultur gelebt: Wir freuen uns über jede verrückte Idee, jede innovative Technologie und jeden Fehler, der uns besser macht.
+Unser Angebot klingt wie gemacht für Dich? Dann freuen wir uns auf Deine Bewerbung mit Angabe deines Startdatums.

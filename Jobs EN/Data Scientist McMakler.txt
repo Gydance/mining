@@ -1,0 +1,30 @@
+Data Scientist (all genders)
+McMakler GmbH
+Beschreibung
+Company Description
+We at McMakler are disrupting dusty structures and merging tradition with innovation. Our goal is to establish the real estate market within the age of digitalization while enhancing quality and efficiency sustainably. With our all-in-one solution we are combining the latest technology with the individual service of classic brokers.
+As a PropTech Startup founded and based in Berlin we are working on the realization of our innovative business model. Around 600 employees at over 100 locations throughout Germany, Austria as well as France belong to our great and ambitious team.
+Join our McMakler family and become a part of our success story. Together we celebrate milestones while realizing our vision.
+Job Description
+You use state-of-the-art Machine Learning algorithms including Computer Vision and NLP in order to automatize the processes at McMakler
+You gain deep insights from large amounts of diverse structured and unstructured data and systematically integrating them into our business processes
+You develop predictive models (e.g. Regression, Neural Networks, SVM, Random Forest or Gradient Boosting) for forecasting and marketing optimization
+You discuss your ideas and share your Machine Learning knowledge within the Data Science Team
+You take responsibility for your products and are always motivated to develop yourself personally and professionally (e.g. by using new algorithms or participating in workshops or conferences)
+Qualifications
+You have successfully completed a degree in Computer Science, Mathematics, Physics or other related fields
+Professional experience in Data Science, Big Data and Machine Learning is a plus
+You identify the latest technologies and their possible applications in the company 
+You have pronounced analytical skills
+You are fluent in Python or R and utilize your profound coding skills for implementing stable and maintainable algorithms
+Knowledge in AWS or GCP is an advantage
+NOTE: We are unable to provide visa sponsorship for this role. No candidates requiring visa sponsorship will be considered.
+Additional Information
+You will become part of a highly motivated and international team of development, user experience, marketing and operations experts
+You gain the unique opportunity to experience and shape the setup of one of the fastest growing companies in Germany
+You will work with the latest technologies and have influence over technological decisions
+You can grow with a high degree of freedom
+You will work at a modern office in the heart of Berlin and choose your equipment and operation system
+You enjoy a great team culture with a lot of fun together, nerf guns and game nights
+Interested? Tuan Pham is looking forward to your application and will be your point of contact during the application process.
+Please note: McMakler does not accept unsolicited resumes from search firms or employment agencies. Unsolicited referrals and resumes are considered McMakler property. Therefore, McMakler will not pay a fee for any placement resulting from the receipt of an unsolicited referral. At McMakler´s request only, preferred vendors may be invited to refer talent for specific open positions. A fully executed agreement with McMakler must be in place and current in these cases.

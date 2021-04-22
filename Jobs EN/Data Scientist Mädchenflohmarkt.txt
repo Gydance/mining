@@ -1,0 +1,35 @@
+Senior Data Scientist, Growth & Retention (w/m/d)
+Mädchenflohmarkt GmbH
+Stellenbeschreibung
+Our Vision
+We want to establish pre-loved fashion as an integral part of everyday life and thus change nothing less than the world.
+We’re looking for a senior data scientist to help us bring potential seller and buyer to Mädchenflohmarkt and connect them to actionable content that improves their experience. You’ll apply quantitative analysis, modeling and data mining to deeply understand user behavior and engagement patterns so we can build the most compelling and engaging product experiences for our customer.
+Where your expertise is needed
+• Perform deep dive analyses to understand and optimize the key levers of our growth ecosystems
+• Apply statistics, modeling and ML to improve the efficiency of systems and relevance algorithms across Growth Initiatives
+• Develop our a/b testing methods together with experimental design and procedures (multivariate, mixed effects models)
+• Challenge and contribute to product decisions based on your insights
+• Drive data mindset in the team, guide in terms of methodology, support and execute testing, and be a quality gatekeeper on data leading to product decisions
+• Give (analytical) evidence why we do certain things - from discovery to roll out
+• Take our recommendation systems to the next level by matching the right customer with the right data on a large scale fully driven by technology and AI
+• Work with product managers and engineers to design data products and debug A/B experiments
+What we’re looking for
+• 4+ years of industry experience with proven ability to apply scientific methods to solve real-world problems on web scale data. Eagerness to broaden your area of expertise.
+• Expert in at least one scripting language (Python/R)
+• Skills in querying, analysis, and clustering of data and knowledge of how to set up monitoring and data quality assurance
+• Knowledgeable about the machine learning trade-offs and model evaluation
+• Strong knowledge of e-commerce KPIs and how they can be defined
+• Practical/real world experiences within Dynamic Pricing, Perishable Inventory, Supply Chain/Logistics, Retail or the Airline/Aviation industry would be desirable.
+• Ability to lead initiatives across multiple product areas and communicate findings with leadership and product teams
+• A “business owner” mindset, with a keen interest in product, operations, and strategy
+• M.Sc or PhD (or comparative experience) in Statistics, Computer Science, Mathematics or other similar quantitative field
+Why Mädchenflohmarkt
+• Independent and fast growing environment with high learning potential
+• Coaching and support by experienced founders and team
+• Collaboration on a product that our customers love
+• Your contribution to changing the world into a place worth living in on a sustainable basis
+• Free of charge MädchenUniversity #empoweryourself
+Your perspective
+If you are looking for a company in which you can make a difference and quickly assume responsibility, then you've come to the right place!
+Are you convinced?
+We look forward to receiving your detailed application including CV, letter of motivation, your salary expectations and your earliest possible starting date.

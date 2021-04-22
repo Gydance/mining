@@ -1,0 +1,25 @@
+Senior Data Engineer (w/m/d)
+Clearstone GmbH
+Gehalt: bis 90.000 Euro Jahresbruttogehalt
+Für ein Hamburger Software-Unternehmen, das sich darauf spezialisiert hat die Fitnessindustrie mit State-of-the-Art Technologien und einzigartigen Lösungen zu digitalisieren, sind wir aktuell auf der Suche nach einem Data Engineer.
+Haben Sie Interesse, durch Digitalisierung Menschen den Zugang zum Sport zu erleichtern? Dann sind Sie hier genau richtig!
+Ihre Aufgabe:
+Als Teil eines agilen, crossfunktionalen Teams sind Sie verantwortlich für den Entwurf, die Erstellung und die Ausführung von Data-Pipelines sowie für die Entwicklung datengesteuerter Anwendungen und Dienste für eine marktführende Fitness-Plattform. Darüber hinaus bringen Sie gerne Ihre eignen Ideen mit ein und streben eine kontinuierliche Verbesserung und Erweiterung der Datenarchitektur an.
+Tech-Stack | Tools | Prinzipien
+Python - Scala - AWS/ GCP - Redshift – postgresSQL, ETL Prozesse - DevOps - Kubernetes - Docker - Apache Spark - Apache Airflow - Github - Machine Learning-Frameworks
+Wichtig: Kenntnisse in den genannten Technologien sind von Vorteil, nicht zwingend. So lang Sie die Konzepte u. das Handwerk in Ihrer Sprache beherrschen und keine Scheu haben sich in neue Themen einzuarbeiten, dann sind Sie hier richtig!
+Ihre Vorteile:
+Attraktive Vergütung (bis 90.000 Euro)
+Flexible Lösungen für mobiles Arbeiten
+Home Office (Remote möglich)
+Moderner Arbeitsplatz im Herzen von Hamburg
+Eigenes Fitness Studio + Personal Trainer (kostenfrei)
+Star-Trek Flipper, Massagesessel
+Flache Hierarchien u. ein motiviertes dynamisches Team
+Schnelle Übernahme von Verantwortung
+Intensive Einarbeitung (Kommunikation auf Augenhöhe)
+Getränke Flat-Rate u. frisches Obst
+BAV-Zuschuss und HVV-Vorteile
+30 Tage Urlaub
+Interesse geweckt?
+Wenn Sie offen für eine berufliche Veränderung sind, dann freuen wir uns über die Zusendung Ihrer Bewerbungsunterlagen. Bei noch offenen Fragen können Sie sich jederzeit an Ihren Ansprechpartner Herr Alexander Schröder wenden.

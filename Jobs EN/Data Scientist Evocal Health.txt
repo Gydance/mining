@@ -1,0 +1,40 @@
+DATA SCIENTIST (m/f/d)
+Evocal Health
+Tasks
+As a Data Scientist at EVOCAL Health, you will help expand our Vocal Biomarker platform, that uses the human voice to (early-detect) diseases smartphone-based. You will build out new disease-specific data science models, lead voice data analytics and work within an interdisciplinary team across all of EVOCAL’s departments to support planning, development and execution.
+This position offers you a unique opportunity to significantly improve the lives of chronic disease patients, impact the development of a foundational new technology and work at the intersection of digital innovation, healthcare, science and technology!
+You will use your data science expertise to derive health-related insights leveraging human voice data. The role at first will be heavily weighted to derive basic health insights from voice data. Over time, the role will shift towards building models for concrete indications like respiratory, cardiovascular and mental/neurodegenerative disorders.
+Explore voice datasets and investigate insights that can be derived for health-related insights into the human health
+Develop & build out high-level concepts, build roadmaps and use cases for therapy and diagnostic purposes as well as disease progression monitoring
+Work closely with product teams to transfer data insights into real-world models and applications for patients leveraging voice-based biomarkers
+Utilize and further develop models and concepts with ML engineers
+Contribute to medical validation of the concepts by partnering with internal and external research teams and contribute to (clinical) validation studies
+Support patent portfolio strategies for voice biomarker technologies
+Productize & iterate different models into functional prototypes in cooperation with software engineers, UX/UI experts and product teams
+Collaborate with data engineering teams to ensure that data is captured in the databases
+Requirements
+Strong academic background with BA or MA or Ph.D. in Computer Science, Engineering, Data Science, Statistics, Neuroscience, Physics, or related fields
+3 years of experience in data science in business or academic context
+Strong statistics and machine learning skills
+Strong coding skills (Python, SQL, databases)
+Experience in interdisciplinary collaboration and stakeholder management (e.g. with product managers, developers or medical experts)
+Evidence of proactively leading complex R&D projects
+Ability to derive insights from real-world data
+Excellent business communication skills in English and German
+Additional Qualifications
+Experience in communicating data insights to a non-technical audience
+Previous experience modelling health data
+Experience in working with verbal signal processing technologies or the human voice
+Product Management expertise in healthcare and/or medical environment
+Team Lead experience in a strong product team before
+Experience of the healthcare market dynamics
+(Basic) experience to medical regulations and/or legal background
+Experience working with digital communication tools like e.g. JIRA, Slack, Trello, Confluence
+Basic skills in data and product visualization
+Benefits
+The opportunity to have a positive impact on solving one of our world’s biggest challenges: Enabling humans and patients to live a longer and healthier life and thereby contributing to one of the UNs most impactful SDGs
+Providing patients with remote access to gold standard therapies, managing chronic conditions and play a vital role in the design of a new kind of digital health applications based on scientific insights and real-world evidence
+Attractive salary with 30 days holiday per year, flexible working hours, home office policy, and a working environment, that is oriented on work outcomes
+Personal training and development in a motivated, interdisciplinary team in a fast-growing digital health startup environment
+A working environment, that values diversity and empowers everyone to be their authentic self as a key ingredient for personal development and company success
+We are looking forward to your application and hope to get to know you personally.

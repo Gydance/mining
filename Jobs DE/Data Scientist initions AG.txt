@@ -1,0 +1,17 @@
+Data Scientist
+initions AG
+Zur Verstärkung unseres Teams am Standort Hamburg suchen wir ab sofort Berater Business Intelligence (m/w/d) – (Data Engineer, Data Scientist, Cloud Engineer, Data Analyst) — mit oder ohne Berufserfahrung
+Die initions AG bietet im Geschäftsbereich „Business Intelligence & Data Platform“ intelligente und innovative Beratung und Lösungen. Zu unseren Kunden zählen namhafte Unternehmen und Organisationen aus nahezu allen Branchen, aus Ministerien und der öffentlichen Verwaltung. Unsere Büros befinden sich in attraktiver Lage in Hamburg-Barmbek mit Blick über die Dächer unserer schönen Hansestadt.
+Wir arbeiten an den zentralen Stellen, von denen Unternehmen organisiert und gelenkt werden – unsere Aufträge kommen meist von „ganz oben“. Das Spektrum reicht von spezifischen Fragestellungen bis hin zu unternehmensweiten, ganzheitlichen Architekturen und Lösungen. Wir begleiten und gestalten die Digitale Transformation mit den Themen Cloud Architecture, Big Data, Business Intelligence, Data Warehouse, Self Service BI und Artificial Intelligence. Zum Einsatz kommen „state of the art“ Konzepte, Technologien und Werkzeuge der führenden Hersteller wie SAP, Snowflake, Databricks, Microsoft und aus der Open Source Community.
+initions wurde vom Stifterverband für die Deutsche Wissenschaft e.V. mit dem Gütesiegel “Innovativ durch Forschung” ausgezeichnet. Diese Position als Innovationsführer wollen wir weiter ausbauen und suchen für unser wachsendes Team von derzeit über 100 Mitarbeitern Dich zur Unterstützung!
+Möchtest Du das “Dahinter” verstehen, an den neuesten Themen arbeiten und noch ganz viel lernen? Ist es für Dich motivierend, mit hochqualifizierten Kolleginnen und Kollegen im direkten Austausch mit dem Kunden herausragende Lösungen zu schaffen? Suchst Du ein Umfeld, das geprägt ist von respektvollem Umgang und Wertschätzung, von flachen Hierarchien und freundschaftlichem Miteinander? Du hast den Willen, auf Augenhöhe engagiert mitzuwirken, zu gestalten, früh Verantwortung zu übernehmen und Dich und das Unternehmen weiterzuentwickeln?
+Dann sollten wir uns kennenlernen!
+Je nachdem, ob Deine Leidenschaft ist:
+Datenbankmodelle zu entwerfen, Analysen durchzuführen und Dashboards zu erstellen,
+IT Infrastruktur‑, Security- und Cloudkonzepte zu entwickeln und umzusetzen,
+mathematisch statistische Analysen durchzuführen und künstliche Intelligenz zu nutzen,
+betriebswirtschaftliche Prozesse zu durchdringen und steuerungsrelevante Kennzahlen zu entwickeln
+oder Du noch gar nicht festgelegt bist, stehen Dir viele Wege offen: Big Data Engineer, Data Scientist, Cloud Engineer, Cloud Security Engineer, Data Platform Engineer, Business Intelligence Expert. Wir helfen Dir, das Richtige zu finden und Dein Potenzial durch Ausbildung und „learning on the job“ zu entfalten.
+Über Deine vollständigen Bewerbungsunterlagen freuen wir uns. Bitte sende sie als PDF an bewerbung@initions.de und nimm Bezug auf diese Stellenausschreibung.
+Wichtig für die Aufgabe ist, dass Du verhandlungssicher Deutsch sprichst und gute Englischkenntnisse hast. Ein abgeschlossenes Studium (Bachelor oder Master) mit technischer, betriebswirtschaftlicher, naturwissenschaftlicher oder mathematischer Ausrichtung, eine abgeschlossene Berufsausbildung im Bereich Informatik oder einen vergleichbaren Abschluss solltest Du haben.
+Für weitere Fragen steht Dir Deine Ansprechpartnerin Janina Lommatzsch gern zur Verfügung.

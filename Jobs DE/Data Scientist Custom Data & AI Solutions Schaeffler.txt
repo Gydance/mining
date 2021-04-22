@@ -1,0 +1,21 @@
+Data Scientist Custom Data & AI Solutions (m/w/d)
+Schaeffler
+Referenzcode: DE-C-HZA-21-00807
+Standort(e): Nürnberg
+Schaeffler – das ist die Faszination eines internationalen Technologie-Konzerns, verbunden mit der Kultur eines Familienunternehmens. Als Partner aller bedeutenden Automobilhersteller sowie zahlreicher Kunden im Industriebereich bieten wir Ihnen viel Raum für Ihre persönliche Entfaltung.
+Der Bereich Data Science Solutions ist die Heimat datengetriebener Wertschöpfung. Sie wirken mit an der Entwicklung maßgeschneiderter Data & AI Services und treiben die digitale Transformation für die Bereiche Sales, HR, Finance und Produktion/SCM mit innovativen Ansätzen und Lösungen voran.
+Ihre Aufgaben
+Aufbereitung und Exploration von großen Datensätzen
+Auswahl von Machine/Deep-Learning-Ansätzen
+Erarbeitung von Modellen und Erkenntnissen in Projekten sowie Visualisierung der Ergebnisse von Datenanalysen und Präsentation vor multidisziplinärem Publikum
+Kollaboration mit zahlreichen Schaeffler-Divisionen zur Verbindung von Domänen-/Expertenwissen und analytischen Ansätzen
+Steuerung von Diskussionen und Definition von wertstiftenden Data-Science-Lösungen gemeinsam mit den Fachbereichen
+Mitarbeit in einem agilen, ambitionierten, cross-funktionalen Team und Arbeit auf einer (Cloud-basierten) Analytics-Plattform
+Ihr Profil
+Universitätsabschluss in Informatik, Softwareentwicklung, Wirtschaftsinformatik, Mathematik, Statistik oder anderem Bereich mit quantitativem Fokus
+Umfassendes Wissen in Statistik und zu Machine Learning/Deep-Learning-Algorithmen sowie solide praktische Erfahrung in deren Anwendung, idealerweise anhand relevanter Projekte
+Erfahrung in Python und Paketen wie pandas, scikit-learn etc. für Data-Science-Projekte
+Gutes Verständnis von Datenbanksystemen, SQL und ETL Tools sowie exzellente Programmierfähigkeiten
+Solide Kenntnisse zu Technologien und Vorgehensweisen der Operationalisierung von Data-Science-Modellen in produktiven Cloud-Umgebungen
+Gute Deutsch- und sehr gute Englischkenntnisse
+Starke analytische Fähigkeiten, agiles, lösungs- und produktgetriebenes Mindset gepaart mit exzellenten Kommunikationsfähigkeiten

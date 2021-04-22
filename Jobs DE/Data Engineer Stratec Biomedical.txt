@@ -1,0 +1,23 @@
+Data Engineer (m/w/d) 154-6139
+Stratec Biomedical
+Stellenbeschreibung
+DATA ENGINEER / DATA SCIENTIST / MACHINE LEARNING SPECIALIST (M/W/D)
+STRATEC projektiert, entwickelt und produziert vollautomatische Analysensysteme für Partner
+aus der In-vitro-Diagnostik und im Bereich Life Science. STRATEC entwickelt ihre Produkte mit
+eigenen patentgeschützten Technologien.
+Werden Sie Teil unseres Teams in Birkenfeld:
+IHRE AUFGABEN
+ Sie ergänzen unser Data Analytics und Machine Learning Team für die Analyse von Daten aus verschiedensten technischen Prozessen sowie deren Interpretation
+ Sie arbeiten auf strukturierten und unstrukturierten Datenquellen, führen feature engineering durch und entwickeln Strategien und Algorithmen für das maschinelle Lernen zur Optimierung unserer Technologien und um Fehlerprognosen zu erstellen
+ Sie arbeiten sehr eng mit unseren Domänenexperten aus den verschiedenen Entwicklungsabteilungen zusammen und unterstützen bei der Anwendung statistischer Methoden auch über die Fehlervorhersage hinaus
+ Sie bilden die zentrale Schnittstelle für die Kommunikation mit Kunden in Bezug auf die Datenanalyse und das maschinelle Lernen
+IHR PROFIL
+ Sie haben ein abgeschlossenes Studium der Naturwissenschaften, Mathematik, Statistik, Informatik, Ingenieurwesen oder Vergleichbares
+ Sie verfügen über Programmierkenntnisse, bevorzugt in Python, sowie idealerweise Erfahrung mit Daten-banken und in der objektorientierten Programmierung
+ Sie bringen eine Vorliebe für die Auswertung und Interpretation von komplexen Daten sowie die Fähigkeit zum analytischen Denken mit
+ Sie haben idealerweise erste Erfahrung in Statistik und maschinellem Lernen (überwacht / unüberwacht), z.B. (recurrent) neural networks, random forests, support vector machines, decision trees, K-means
+ Berufseinsteiger sind gerne willkommen
+INTERESSE?
+Es erwartet Sie ein dynamisches und innovatives Team, eine offene Arbeitsatmosphäre, flache Hierarchien und eine
+attraktive Vergütung. Wir suchen neue Mitarbeiter, die Initiative zeigen und bereit sind, sich kreativ und dynamisch
+verschiedenen Herausforderungen zu stellen.

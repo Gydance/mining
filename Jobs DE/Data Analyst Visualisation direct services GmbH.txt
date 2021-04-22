@@ -1,0 +1,27 @@
+Data Analyst Visualisation
+direct services Gütersloh GmbH – BPG IT
+Data Analyst Visualisation
+Die BPG-IT gehört zur Bertelsmann Printing Group und ist der IT-Partner aller Einheiten der Bertelsmann Printing Group im DACH-Bereich. Mit unseren 80 Mitarbeiterinnen und Mitarbeitern entwickeln und betreiben wir innovative Lösungen für unser reichenweitenstarkes Multipartner-Bonusprogramm mit mehr als 20 Mio. Teilnehmern, für unsere Kampagnen- und Regionalmarketing-Services, unseren angebundenen Print- und Lettershop mit einem Volumen von mehr als 700 Mio. Druckseiten im Jahr und für unsere Druckereieinheiten in ganz Deutschland. Wir verarbeiten große Datenmengen für unsere Consumer-Insights-Services und für unsere 3D Dienstleistungen und generieren Deutschlands größte Omnichannel-Reichweite für crossmediale Neukundengewinnung und Bestandskundenkommunikation.
+Aufgaben
+Du liebst die tägliche Arbeit mit Daten und hast Spaß daran, neue Erkenntnisse aus Daten zu gewinnen? Du begeisterst Dich dafür Daten für Nutzer verständlich zu machen, sodass sie auch selbst Antworten auf ihre Fragen finden können? Du möchtest Dich stetig weiterentwickeln, bringst gerne Deine innovativen Ideen mit ein und möchtest Dein Arbeitsumfeld aktiv mitgestalten? Dann suchen wir genau Dich.
+Für unser DevOps-Team in Gütersloh suchen wir einen motivierten und teamorientierten Data Analyst Visualisation (m/w/d). Als Teil des crossfunktionalen Teams wirkst Du bei der technologischen Aktualisierung und Restrukturierung der analytischen Systeme unserer internen Kunden mit – angefangen bei der Einführung einer neuen Datenbanktechnologie, bis hin zum Redesign der gesamten Analytics-Infrastruktur. 
+Deine Aufgaben:
+Du entwickelst das Analytics-System hinsichtlich Architektur und Datenquellenanbindung weiter und gestaltest neue Vorgehensweisen als auch Prozesse aktiv mit.
+Du erhebst fachliche sowie technische Anforderungen an das Analytics-System in enger Abstimmung mit unserem Kunden, um das System und dessen Wertschöpfung fortwährend zu optimieren.
+Mit unserem Team konzipierst und entwickelst Du Dashboards zur Abbildung der immer komplexer werdenden Analyseanforderungen und ermöglichst den Anwendern des Systems, möglichst viele Fragestellungen selbst zu beantworten.
+Du wirkst aktiv dabei mit, datengetriebene Geschäftsprozesse aufzubauen und zu etablieren, um darüber Mehrwerte für die Organisation zu schaffen.
+Profil
+Du teilst mit uns die Leidenschaft für Daten und die Arbeit mit relationalen Datenbanken gehört für Dich zum täglichen Geschäft.
+Du liebst die Herausforderung, dem Nutzer des Analytics-Systems die Möglichkeit zu geben Analysen auf einem komplexen und großen Datenhaushalt einfach und performant durchzuführen. 
+Du begeisterst Dich für neue Technologien und Themen und besitzt den ständigen Willen, neue Dinge zu lernen, um auch in Zukunft am Puls der Zeit zu bleiben und keinen Trend zu verpassen.  
+Du bist kreativ, handelst eigenverantwortlich, teilst gerne Dein Wissen und schaust auch über den Tellerrand hinaus.
+Komplexe Sachverhalte kannst Du schnell erfassen und strukturiert analysieren, Du arbeitest kundenorientiert und besitzt eine ausgeprägte Kommunikationsfähigkeit.
+Du verfügst über Erfahrung mit Analytics-Systemen (Tableau, Power BI o.ä.) und SQL und hast auch bereits Erfahrung mit agilen Entwicklungsmethoden gesammelt. 
+Wir bieten
+Du bist Teil eines ambitionierten und kollegialen Teams, übernimmst schnell Verantwortung und setzt Aufgaben bei flachen Hierarchien und kurzen Entscheidungswegen eigenverantwortlich um.
+Ein persönlicher Coach sorgt für eine schnelle Einarbeitung und damit für einen reibungslosen Start bei uns. 
+Unsere offene Unternehmens- und Team-Kultur gibt Dir viel Gestaltungsspielraum für eigene Ideen.
+Regelmäßige Leistungs- und Entwicklungsgespräche zusammen mit einem umfangreichen Weiterbildungsangebot unterstützen Dich in Deiner beruflichen Entwicklung.
+Ein umfangreiches Gesundheits- und Fitnessprogramm mit hausinternem Fitnessraum bieten Dir sportlichen Ausgleich.
+Die Gewinn- und Erfolgsbeteiligung, vermögenswirksame Leistungen, günstige Versicherungskonditionen sowie stark rabattierte Bertelsmann-Produkte sorgen für finanzielle Vorteile.
+In der Bertelsmann Printing Group sind die Druck- und Marketingdienstleistungsgeschäfte von Bertelsmann gebündelt. Die Unternehmensgruppe umfasst mehr als 20 Einzelunternehmen in Deutschland, Österreich, der Schweiz, Großbritannien und den USA, in denen ungefähr 9.000 Mitarbeiterinnen und Mitarbeiter beschäftigt sind. Das Dienstleistungsspektrum reicht von vollstufigen Druckdienstleistungen über datenbasiertes Multi-Channel-Marketing bis hin zu umfassenden Kampagnenmanagement-Services.

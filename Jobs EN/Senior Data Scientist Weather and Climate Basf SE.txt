@@ -1,0 +1,21 @@
+(Senior) Data Scientist Weather and Climate (m/f/d)
+BASF SE
+Agriculture is all about balance. The balance that is crucial to everyone's existence - also applies to our Agricultural Solutions division. We connect innovative thinking with practical action to find the right balance for success - for farmers, agriculture and future generations. With seeds and traits, crop protection and digital solutions, we help farmers produce food more efficiently, protect the land and meet the needs of society.
+Responsibilities
+With its xarvio(TM) product portfolio the BASF Digital Farming GmbH enables farmers to improve and automate agriculture by using data: smart sensors, advanced models and artificial intelligence.
+Together with the agricultural and remote sensing R&D teams, you will co-develop weather and agricultural data-driven solutions for addressing complex crop production challenges.
+In addition, you will create novel hyperlocal historical and long range forecast agrometeorological data products using data-driven as well as machine learning models.
+You will also perform weather and climate data analyses as well as create associated data visualizations to support organizational decision-making and product initiatives.
+Furthermore, you will assist in data engineering of weather and climate data pipelines as well as in the serving of analysis-ready weather data to the R&D communities.
+Last but not least, you will work with stakeholders including the product, data and design teams to set project objectives, timelines as well as delivery pathways.
+Qualifications
+master's degree in earth sciences (atmospheric sciences, hydrology, geography) or computer science
+at least two years of professional work experience in data science, including data wrangling, statistical models and machine/deep learning
+knowledge of software engineering best practices as well as good project management skills
+well-versed in the Python data science ecosystem (NumPy, pandas, Dask, Jupyter, scikit-learn, PyTorch), geospatial libraries (rasterio, xarray) and formats (GeoTIFF, NetCDF, Zarr) as well as AWS cloud technologies (S3, EC2, lambda, SageMaker)
+fluent German and English language skills
+Benefits
+Onboarding to help you settle in quickly, ensuring you are part of the BASF team from day one.
+International work culture that embraces diversity, equity and inclusion.
+Development discussions and programs so that you can reach your full potential.
+Flexible work arrangements so that you can balance your working life and private life.

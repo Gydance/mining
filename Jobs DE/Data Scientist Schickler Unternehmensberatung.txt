@@ -1,0 +1,27 @@
+Data Scientist (m/w/d)
+Schickler Unternehmensberatung
+Als Data Scientist bist Du Teil unseres SCHICKLER Data Science Team und treibst gemeinsam mit den Kollegen herausfordernde Machine Learning / Künstliche Intelligenz Projekte voran. Du arbeitest an spannenden Machine Learning-Projekten auf realen Daten und kritischen Problemen unserer Kunden. Aktuell arbeitet das SCHICKLER Data Science Team zum Beispiel an Recommendation Systems, Content Classification, Semantic Text Analysis, Automatic Tagging, Churn Prediction und Price Modeling. Alle unsere Machine Learning Projekte sind einzigartig: Wir entwickeln auf den Kunden individuell zugeschnittene Lösungen. In Data-Projekten bist Du Experte für die Entwicklung von Algorithmen, ETL-Pipeline oder Data Lakes. Bei unseren Kunden arbeitest Du auf Augenhöhe mit anderen Data Scientists und Business-Experten. Folgende Bereiche liegen in Deiner Verantwortung:
+Analyse von großen Daten und Identifikation von Mustern und Korrelationen
+Bereinigung von Daten (z.B. mit Python Pandas und Numpy), Setup von ETL-Prozessen (z.B. mit Apache Airflow) und Data Lakes (z.B. mit AWS S3)
+Entwicklung von Machine Learning-Modellen (z.B. Deep Learning mit Keras, Tree Boosting mit XGBoost oder LightGBM)
+Visualisierung und Aufbereitung der Ergebnisse (z.B. mit Tableau, Plotting Libraries in Python)
+Optimierung der Modelle, Begleitung von real-world Tests, Deployment in Cloud-Systemen (AWS, GCP, Azure)
+Bei uns bist Du richtig, wenn Du wissbegierig bist und Lust hast Dich als Data Scientist der Herausforderung realer Business Probleme und realen Daten zu stellen. Was Du mitbringst:
+Studium in (Wirtschafts-)Mathematik, Informatik, Data Science oder Ähnliches.
+Von Vorteil ist relevante Berufserfahrung im Bereich Data Science oder eine Promotion in Mathematik/Informatik.
+Analytische Fähigkeiten, Denken in Daten und Strukturen.
+Fähigkeit Business Prozesse zu verstehen und Lösungsansätze mit Daten und Algorithmen zu erkennen.
+Programmiererfahrung, idealerweise in Python (Numpy, Pandas, Jupyter), alternativ mit R, Java, C++ oder anderen Programmiersprachen.
+Erfahrung in Machine Learning-Konzepten und Frameworks (z.B. Keras, Tensorflow) und Cloud Plattformen (z.B. AWS, GCP)
+Unternehmerische Denkweise und ausgeprägte technische und analytische Fähigkeiten
+Warum SCHICKLER?
+Bewusst & Nachhaltig
+Firmenrad statt Firmenwagen
+Mitten in Hamburg
+Bahncard privat nutzen
+Handy & Laptop privat nutzen
+Hunde sind Willkommen
+Homeoffice
+Große Getränkeauswahl
+Barrierefrei
+Bist Du neugierig geworden? Dann bewirb' Dich unter dem "Jetzt Bewerben" Button!

@@ -1,0 +1,20 @@
+Senior Data Engineer (w/m/d)
+Deutsche Bahn AG
+VOLLZEIT
+Das Unternehmen Deutsche Bahn AG bietet aktuell diesen Job in Frankfurt (Main) an. Wenn Du gerade auf der Suche in dem Bereich IT bist, solltest Du Dir die Details auf der Seite des Unternehmens anschauen. Dort findest Du ausführliche Informationen zu der Stelle und zu dem Unternehmen.
+Zum nächstmöglichen Zeitpunkt suchen wir Dich als Senior Data Engineer für die DB Systel, idealerweise am Standort Frankfurt am Main.
+Deine Aufgaben:
+Als Senior Data Engineer arbeitest Du umfangreiche Konzepte zur Datenintegration mit Apache Spark/Scala auf der Basis von Hadoop und AWS Technologien aus und berätst hierbei auch auf interner und externer Managementebene
+Du entwickelst im agilen Team umfangreiche ETL-Prozesse im Big Data Umfeld gemäß den Anforderungen des Kunden und koordinierst die Zusammenarbeit mit allen Beteiligten
+Mit Hilfe von gängigen Werkzeugen (Spark, NiFi, Jupyter, u.a.) integrierst Du Daten aus unterschiedlichen Quellsystemen in einen Data Lake
+Du implementierst automatisierte Testfälle, dokumentierst und bringst standardisierte Entwicklungsprozesse voran
+Im Sinne eines DevOps-Ansatzes bist du in der Lage neben Architektur und Entwicklung auch den Betrieb der eigenen Anwendungen sicherzustellen
+Deine sehr guten Kenntnisse der AWS Dienste helfen dir, innovative Lösungen zu erarbeiten
+Dein Profil:
+Dein (Fach-)Hochschulstudium in (Wirtschafts-)Informatik oder einer vergleichbaren Fachrichtung hast Du erfolgreich abgeschlossen oder verfügst über eine Ausbildung im IT-Bereich mit entsprechender Berufserfahrung
+Du bringst langjährige Erfahrungen in der Programmierung mit Scala und Python mit und kennst dich im Umgang mit Datenbanken, ETL-Tools und Cloud-Lösungen sehr gut aus
+Auch in der Datenintegration verfügst Du über sehr gute praktische Kenntnisse
+Idealerweise kennst Du Dich mit Data Lakes aus und bringst Deine Erfahrungen aktiv in einem agilen Arbeitsumfeld ein
+Mit deiner bodenständigen und proaktiven Art punktest Du
+Wir bieten dir mehr als einen Tapetenwechsel und suchen einen professionellen Anpacker
+Fließende Deutschkenntnisse runden Dein Profil ab

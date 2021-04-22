@@ -1,0 +1,26 @@
+(Senior) Data Scientist (wmd)
+adesso SE
+Deine Rolle - das wartet auf Dich
+Gestalte gemeinsam mit uns die Line of Business Data & Analytics. Wir fokussieren uns auf die Daten unserer Kunden und konzipieren Lösungen durch technologieunabhängige Beratung.
+Du verfügst bereits über mehrjährige Erfahrungen im Machine-Learning Umfeld? Dann bist du bei uns genau richtig! In interdisziplinären Projektteams bist du für die fachliche Entwicklung und Umsetzung von Data Science Use Cases zuständig.
+In diesem Kontext übernimmst du die folgenden Aufgaben:
+Du analysierst die Daten unserer Kunden nach Trends und Mustern und hilfst damit bei der Optimierung der Geschäftsprozesse unserer Kunden
+Je nach Erfahrungshintergrund verantwortest Du Konzeption und Implementierung neuer Data Science Use Cases
+Unter Verwendung moderner Machine Learning und Deep Learning Verfahren beantwortest Du verschiedenste Fragestellungen aus den Fachbereichen unserer Kunden und leitest daraus Handlungsempfehlungen ab
+Deine Skills - das bringst Du mit
+Abgeschlossenes Studium oder Promotion der Informatik, Wirtschaftsinformatik, Statistik, Mathematik oder eine vergleichbare Qualifikation
+Überzeugende Programmierkenntnisse in Python, R, SAS, Scala oder Java
+Erfahrung mit großen Datenmengen, z.B. Soziale-Netzwerk-Daten, wissenschaftliche Daten, Weblogs, Sensordaten, etc. und deren Interpretation
+Du hast dich im Studium oder in der Praxis schon intensiv mit maschinellen Lernverfahren wie Clusteranalyse, Entscheidungsbäume, Neuronale Netze, Random Forest oder Support Vector Machine beschäftigt
+Als Senior Consultant bringst Du sowohl Projekterfahrung in der Anwendung von Deep Learning Verfahren als auch im Umgang mit SQL mit
+Eine hohe Ergebnis- und Kundenorientierung sowie deutschlandweite projektbedingte Reisebereitschaft
+Chancengeber - was adesso ausmacht
+Unser Ziel ist es, dass du dich bei uns wohlfühlst. Wir legen großen Wert auf ein kollegiales und von Gemeinschaftsgefühl geprägtes Umfeld. Die familiäre Arbeitsatmosphäre zeichnet sich durch ein besonderes „Wir-Gefühl“ aus – hierfür gibt es sogar ein Wort: „adessi“! Und dafür tun wir auch einiges. Kontinuierlicher Austausch, Teamgeist und ein respektvoller sowie anerkennender Umgang sorgen für ein Arbeitsklima, das verbindet. So belegen wir zum wiederholten Male den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK"! Wir eröffnen Entwicklungs- und Führungsmöglichkeiten – unser Versprechen, ein Chancengeber zu sein, nehmen wir ernst. Unser umfangreiches Schulungs- und Weiterbildungsangebot sorgt dafür, dass deine Entwicklung bei uns nicht still steht.
+Welcome Days - 2 Tage zum Reinkommen und Netzwerken
+Weiterbildung - über 120 Schulungen und Weiterbildungen
+Choose your own device - freie Wahl deiner Arbeitswerkzeuge
+Events - fachlich und mit Spaßfaktor
+Hemden- und Blusenreinigung - zweimal die Woche frisch aufgebügelt
+Sportförderung - Zuschuss zum Fitnessstudio und Übernahme der Platzmiete für die Sporthalle
+Mitarbeiterprämien - eine Vielzahl an Prämien für zusätzliches Engagement
+Auszeitprogramm - Raum für deine persönliche Lebensplanung

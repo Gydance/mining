@@ -1,0 +1,27 @@
+Data Scientist (w/m/x)
+AITAD GmbH
+Deine Aufgaben:
+Organisation/Teamleitung vom internen Personal(aufbau) sowie Steuerung externer Dienstleister.
+Kommunikation zur Geschäftsführung (z.B. beim Einkauf).
+Analyse, Aufbereitung und Machine-Learning-Modellierung von bestimmten Prozessen/gemessenen Daten.
+Professionelle, systemorientierte Programmierung von Embedded-PCs bis herunter zu 8-Bit-MCUs (Embedded-Linux, RTOS und Bare Metal).
+Implementierung von Kommunikationsprotokollen und hardwarenaher HMI.
+Erweitern und Aufbauen weiterer GPU-Server bzw. -Workstations.
+Übernahme der Koordination ausländischer Freelance-Entwickler bei Sonderthemen.
+Zunehmend: Mitentwicklung von Hybridsystemen mit Radar- und Lidardaten sowie gängigen Modellen und GPU-Systemen, Schnittstelle zur Automotive-Zulieferer-Vorentwicklung.
+Dein Profil:
+Du verfügst über Praxiserfahrung.
+Du schätzt Autonomie und Verantwortung.
+Du bist leistungsfähig und intrinsisch motiviert.
+Du liebst Herausforderungen.
+Du kennst und befürwortest agiles Arbeiten (z. B. Scrum).
+Du arbeitest gern interdisziplinär in verschiedenen technischen Gebieten und unterschiedlichen Forschungsgruppen.
+Du bist gern hardwarenah und im Embedded-Gebiet unterwegs.
+Du kennst dich mit Cloud-Entwicklungsprozessen und Integrationsprozessen in Hardware aus.
+Du besitzt fundierte Kenntnisse in professioneller Programmierung in C(++), Python und idealerweise in Assembler.
+Du bist bereit, auch zunehmend mit Hardwarebeschreibungssprachen wie VHDL/Verilog umzugehen.
+Du kennst dich mit Datenanalyse und Machine Learning praktisch und theoretisch aus – Begriffe wie NumPy, Pandas, OpenCV-IF, Keras, TensorFlow, PyTorch Caffe, Clever Hans, Korrelationsanalyse, CNNs, SVMs, Quantisierung und Ähnliches sollten dir im Wesentlichen bekannt sein.
+Du kennst dich grundlegend mit RTOS, Embedded Linux oder gar ROS aus.
+Du hast Grundkenntnisse in applikativen Schnittstellen zu führenden Systemen, angefangen bei REST.
+Optimal: Du kennst dich zudem im Groben mit Sicherheitsthemen, Wireless oder Mobilendgeräteprogrammierung aus.
+Dir bereitet es Freude, Algorithmen an geringe Ressourcen anzupassen.

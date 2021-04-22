@@ -1,0 +1,24 @@
+Data Scientist (m/w/d)
+FinTecSystems GmbH
+Beschreibung
+Data Scientist (m/w/d)
+22. März 2021/von 
+Veröffentlicht vor 2 Minuten 
+Open Banking, PSD2, Financial Analytics, Machine Learning und AI – alle reden drüber. Bei uns steckst du mittendrin!
+FinTecSystems wurde 2014 in München gegründet und ist einer der führenden Banking-API- und Smart Data-Anbieter in Deutschland. Neben einer Open Banking Plattform hat sich FinTecSystems mit einer Analytics Plattform vor allem auf die Analyse von Finanzdaten fokussiert. Banken, FinTechs und Zahlungsdienstleister nutzen die Lösungen von FinTecSystems unter anderem, um in Echtzeit Kredit-Entscheidungen zu treffen, Bonitätsrisiken zu minimieren und Online-Überweisungen zu initiieren. Das TÜV-zertifizierte FinTecSystems hat im März 2019 die BaFin-Erlaubnis als Kontoinformationsdienst und als Zahlungsauslösedienst erhalten und beschäftigt rund 60 Mitarbeiter an vier Standorten. FTS ist unter anderem für N26, Santander, DKB und Finanzcheck tätig.
+Deine Aufgaben
+Du entwickelst und deployst verschiedenste hochleistungsfähige KI/ML-Modelle 
+Du arbeitest mit dem Datenteam am Aufbau robuster, skalierbarer ml-Lösungen rund um Openbanking und unsere Analyseplattform 
+Du arbeitest in einem Team an der Implementierung einer eigenen Machine-Learning-Devops-Infrastruktur 
+Dein Profil
+Du hast ausgezeichnete Kenntnisse über Docker Containerisierung 
+Du hast einschlägige Erfahrung in der Datenanalyse, Datenvorverarbeitung, maschinelles Lernen und natürliche Sprachverarbeitung (nlp) 
+Du bringst Erfahrung mit Frameworks wie pytorch, scikit, pandas, numpy mit 
+Du hast bereits mit Architekturen wie CNNs oder Transformern gearbeitet 
+Das erwartet Dich
+FinTecSystems ist ein innovatives, lösungsorientiertes und hochmotiviertes Unternehmen in der Wachstumsphase. Wir bieten ein dynamisches, innovatives Arbeitsumfeld mit flachen Hierarchien und schnellen Entscheidungswegen. Dich erwarten spannende Aufgaben und viel Gestaltungsspielraum und ein moderner, bewährter Technologie-Stack.
+Außerdem bieten wir ein familiäres Arbeitsumfeld: Kein Dresscode, Duz-Kultur, regelmäßige Aktivitäten mit dem Team (Fußball spielen etc.) und der Möglichkeit zum mobilen Arbeiten. Am Arbeitsplatz gibt es Kaffee und Wasser nach Belieben. Wir sind immer offen und interessiert an deinen eigenen Ideen und Vorstellungen und deren Umsetzung. Damit du für deine Zukunft gut aufgestellt bist, bieten wir eine betriebliche Altersvorsorge an.
+Wir bieten ein interessantes Tätigkeitsfeld mit vielen Entwicklungsmöglichkeiten und das Gefühl, am Ende des Tages die Finanzindustrie der Zukunft mitentwickelt zu haben.
+Sounds good? Dann auf die Plätze, fertig los! jobs@fintecsystems.com 
+Um sich für diesen Job zu bewerben, sende deine Unterlagen per E-Mail an jobs@fintecsystems.com 
+https://fintecsystems.com/wp-content/uploads/FTS_Logo_2018_final_v2.svg 0 0 Annabell Düker https://fintecsystems.com/wp-content/uploads/FTS_Logo_2018_final_v2.svg Annabell Düker2021-03-22 11:34:472021-03-22 11:34:47Data Scientist (m/w/d)

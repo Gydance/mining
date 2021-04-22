@@ -1,0 +1,27 @@
+Data Scientist Infektionsforschung (w/m/d)
+Brunel GmbH
+Stellenbeschreibung
+Sie suchen eine neue Herausforderung in einem Umfeld, das Sie persönlich und fachlich fördert- Dann nutzen Sie die Möglichkeit mit Brunel voranzukommen, innerhalb einer Unternehmenskultur, die geprägt ist von Verantwortungsbewusstsein, Dynamik, Wertschätzung und Freiraum für eigene Ideen. Im Bereich Infektionsforschung suchen wir zum nächstmöglichen Zeitpunkt einen Data Scientist. Machen Sie mit Ihrer Bewerbung jetzt den entscheidenden Schritt!
+Arbeitsbeschreibung:
+- Sie sind verantwortlich für die Koordination wissenschaftlicher Projekte und die Implementierung (sero-)epidemiologischer Studien.
+- Zudem erstellen Sie wissenschaftliche Analysen und Publikationen.
+- Auch die Beantragung von Drittmitteln fällt in Ihren Tätigkeitsbereich.
+- Des Weiteren analysieren Sie die Prozesse im Rahmen der epidemiologischen Überwachung sowie, der Ausbruchsbekämpfung
+und übertragen die Vorgaben der Prozesse an die Softwareentwicklung.
+- Sie übernehmen die inhaltliche Gestaltung der Softwareentwicklung von verschiedenen eHealth Tools.
+- Zusätzlich unterstützen Sie Lehrtätigkeiten im Bereich Epidemiologie und übernehmen die wissenschaftliche Betreuung internationaler Doktoranden.
+Ihr Profil:
+- Abgeschlossenes Hochschulstudium im Bereich Gesundheitswissenschaften, Medizin, Epidemiologie,
+-Informatik, Ingenieurswissenschaften oder eine vergleichbare Qualifikation
+- Berufserfahrung im Bereich der Quantitativen Datenanalyse
+- Erfahrung in der Teamkoordination
+- Kenntnisse im Bereich Machine Learning und Softwareentwicklung
+- Erste Erfahrung in der Konzeption und Durchführung epidemiologischer Studien inkl. Datenschutz und Ethik von Vorteil
+- Kenntnisse in statistischen Methoden und verschiedener Datenbankstrukturen wünschenswert
+- Erste Erfahrung im Bereich Ausbruchsuntersuchungen oder
+Infektionsepidemiologie (z.B. EPIET, EIS, PAE, MSc, MPH)
+- Sehr gute Deutschkenntnisse sowie gute Englischkenntnisse
+Wir bieten:
+Arbeiten bei Brunel bedeutet Vielfalt – vom mittelständischen Unternehmen über Hidden Champion bis zum DAX-Konzern; ob Straße, Schiff, Schiene, Luft oder Weltraum; traditionell oder innovativ; von der Entwicklung bis zum fertigen Produkt; national oder international; vom Berufseinsteiger bis zum erfahrenen Professional. Wir bieten Ihnen unzählige Möglichkeiten, den technologischen Fortschritt mitzugestalten, und all das bei einem einzigen Arbeitgeber. 
+Über Brunel:
+Arbeiten bei Brunel bedeutet: Attraktive Arbeitsaufgaben, außergewöhnliche Karriereperspektiven, die Sicherheit eines expandierenden Ingenieurdienstleisters und die ganze Vielfalt des Engineerings. Allein in Deutschland verfügen wir über 49 Niederlassungen, zwei Entwicklungszentren und weltweit 120 Standorte mit mehr als 13.000 Mitarbeitern in 46 Ländern. Mehr als 45 Jahre international erfolgreich und über 25 Jahre in Deutschland. Stillstand bedeutet Rückschritt – mit Brunel können Sie etwas bewegen!

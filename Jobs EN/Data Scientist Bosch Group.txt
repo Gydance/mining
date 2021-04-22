@@ -1,0 +1,22 @@
+Data Scientist
+Bosch Group
+Beschreibung
+Company Description
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.                       
+The Robert Bosch GmbH  is looking forward to your application!
+Job Description
+Over the last few years, Bosch has established the Bosch Center for Artificial Intelligence (BCAI) as one of the leading enterprise research centers for AI. The Applied ML, Data- and Software Engineering team is one part of the BCAI with the mission to incubate, engineer and roll out AI solutions to Bosch. We work closely with domain experts on real-world applications to transform Bosch into a data-driven company.
+You will translate business needs into technical solutions and develop advanced machine learning models for the analysis of large-scale and high-dimensional data. You will have direct impact on new and exciting AI solutions that will change Bosch’s products and processes.
+You will stay current with latest research and technology trends to build state of the art machine learning/deep learning models. You will review code written by others for critical feedback. You will be responsible for the modelling process from raw data to deployment ready model for production.
+You will collaborate with domain experts and engineering teams. You will share knowledge by clearly articulating results and ideas through papers, presentations to research staff, management, and key decision makers. Travel to local RB locations might be required (post-covid19).
+Qualifications
+Education: Excellent degree (PhD or Master) in computer science, mathematics, physics or related field with strong background in machine learning (ML) or deep learning (DL).
+Personality: We are looking for a teammate who is: keen to learn new technologies and share knowledge, a team player and as well as able to work independently, motivated, goal-oriented and pro-active.
+Experience: PhD with at least 1 year or Master with at least 3 years’ of professional experience. Strong analytical and problem solving skills.     Proficiency in two or more modern programming languages (e.g. Python, C/C). Proven expertise in at least 2 fields: neural networks, generalized linear models, time-series analysis, recommendation systems, statistics, latent variable models and clustering. Demonstrated experience in working with ML/DL frameworks (e.g. sklearn, TensorFlow). Excellent communication and documentation skills.  Hands-on experience in working with Spark clusters or GPU clusters is a big plus. Publications at major conferences or journals is a big plus.
+Languages: Fluent in English (written and spoken)
+Additional Information
+Take that challenge and be a part of this young and vibrant team! We would like to welcome you as soon as possible.
+Apply today at the Bosch Center for Artificial Intelligence
+Please submit all relevant documents (CV, letter of motivation, certificates and links to GitHub or Kaggle account).
+Apply now in just 3 minutes!
+Are you interested in working from home, or part-time? Please don't hesitate to ask us.

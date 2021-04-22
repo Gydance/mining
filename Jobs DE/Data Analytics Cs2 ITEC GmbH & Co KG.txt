@@ -1,0 +1,26 @@
+Data Analytics (m/w/d)
+Cs2 ITEC GmbH & Co.KG
+Stellenbeschreibung
+Cs2 ITEC bietet Ihnen als Berufseinsteiger oder erfahrenem Spezialisten ausgezeichnete Möglichkeiten der fachlichen und persönlichen Weiterentwicklung.
+Bei spannenden und abwechslungsreichen Tätigkeiten für internationale Großkunden und Konzerne, bauen Sie, je nach Aufgabenstellung und Position tiefes Fachwissen in neuesten Technologien oder breites Projektleitungs- bzw. Führungs-Know-how auf. Durch die Vielzahl unserer Themen können wir Ihnen, je nach persönlichen Wünschen, verschiedene Technologiebereiche und Aufgabenstellungen anbieten.
+Das bieten wir Ihnen:
+- Abwechslungsreiche Tätigkeiten in einem spannenden Aufgabenumfeld
+- Internationale Großprojekte bei namhaften Kunden
+- Mitarbeit in einem sympathischen und motiviertem Team
+- Angenehmes und kollegiales Arbeitsumfeld
+- Interessante Perspektiven für die fachliche und persönliche Weiterentwicklung
+- Attraktive Vergütung und flexible, familienfreundliche Arbeitszeiten
+Diese Aufgaben warten auf Sie:
+- Aufbau eines digital gestützten Kennzahlensystems zur Stützung der Produktivitätssteigerung 
+- Administration der bestehenden manuellen Kennzahlensysteme 
+- Integration eines MES-Systems in den Produktionsbetrieb 
+- Anbindung von Lagerverwaltungssystemen an SAP zur Optimierung der Lagerbestandsverwaltung 
+- Umstellung von manuellen Auswertemethoden der Qualitätssicherung (Fehler & Nacharbeiten) & Make (Shopfloor-Daten) auf digitalisierte Datenverfügbarkeit
+Was Sie mitbringen sollten:
+- Abgeschlossenes Studium im Bereich (Wirtschafts-)Informatik oder einem anderen relevanten Bereich
+- Erste Berufserfahrungen
+- Erfahrung mit SAP und Datenmanagement
+- Erweiterte Kenntnisse mit Excel inkl. Makros
+- Kenntnisse mit Power BI oder vergleichbaren Tools zur Datenanalyse
+- Wünschenswert sind Erfahrungen in der Erstellung und Pflege von KPI‘s und des zugehörigen Datensystems, als auch Projekterfahrung
+Wir freuen uns auf SIE !

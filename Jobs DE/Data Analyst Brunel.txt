@@ -1,0 +1,19 @@
+Data Analyst (w/m/d)
+Brunel GmbH NL Braunschweig
+Stellenbeschreibung
+Möchten Sie die nächste Stufe in Ihrer Karriere erreichen- Bei Brunel haben Sie die Möglichkeit, sich bei namhaften Kunden kontinuierlich weiterzuentwickeln – und das branchenübergreifend. Machen Sie noch heute den entscheidenden Schritt Ihrer Karriere und bewerben Sie sich bei uns als Data Analyst.
+Arbeitsbeschreibung:
+- In Zusammenarbeit mit Kollegen pflegen Sie Datenbanken und designen ETL-Prozesse
+- Innerhalb des Accounting & Controlling Teams übernehmen Sie die Betreuung und Weiterentwicklung der unternehmensweiten Business Intelligence-Umgebung (MS-Power-BI)
+- Sie arbeiten aktiv in Projekten zur Bereitstellung von Kennzahlen, beispielsweise mit Administrationsabteilungen oder dem Projektmanagement
+- Innerhalb des Projekts stimmen Sie die Anforderungen eng mit den verantwortlichen Führungskräften ab
+- Abgerundet wird Ihr Tätigkeitsumfang durch das Reporting der Kennzahlen für Analysen und Auswertungen
+Ihr Profil:
+- Erfolgreich abgeschlossenes Studium der (Wirtschafts-) Informatik, Ausbildung zum Fachinformatiker oder vergleichbare Qualifikation
+- Gute Kenntnisse in SQL-Datenbanken, sowie im Business Intelligence oder Data Warehouse Umfeld
+- Prozesskenntnisse und Projekterfahrung, sowie Kenntnisse in agilen Methoden von Vorteil
+- Fließende Deutsch- und gute Englischkenntnisse in Wort und Schrift
+Wir bieten:
+Wir bieten Ihnen eine Unternehmenskultur, die geprägt ist von der Vielfältigkeit unserer Mitarbeiter sowie von gegenseitiger Wertschätzung – zwischen den Mitarbeitern und auf allen Unternehmensebenen. Dazu gehören neben abwechslungsreichen Stammtischen mit den lokalen Brunel Teams, auch regelmäßige Feedback-Gespräche über Ihre Herausforderungen und Perspektiven mit Ihrem Account Manager. Mit individuellen Fortbildungen und Trainings werden Sie optimal gefördert und auf zukünftige Projekte vorbereitet. Unbefristete Arbeitsverträge, 30 Tage Urlaub, Arbeitskontenregelung sowie betriebliche, arbeitgeberfinanzierte Altersvorsorge sind bei uns selbstverständlich.
+Über Brunel:
+Arbeiten bei Brunel bedeutet: Attraktive Arbeitsaufgaben, außergewöhnliche Karriereperspektiven, die Sicherheit eines expandierenden Ingenieurdienstleisters und die ganze Vielfalt des Engineerings. Allein in Deutschland verfügen wir über 47 Niederlassungen, zwei Entwicklungszentren und weltweit 120 Standorte mit mehr als 13.000 Mitarbeitern in 46 Ländern. Mehr als 45 Jahre international erfolgreich und über 25 Jahre in Deutschland. Stillstand bedeutet Rückschritt – mit Brunel können Sie etwas bewegen!

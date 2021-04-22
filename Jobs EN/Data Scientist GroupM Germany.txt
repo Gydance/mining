@@ -1,0 +1,32 @@
+Data Scientist (f/m/d)
+GroupM Germany GmbH
+Your responsibility:
+plan, develop and deploy machine learning services on top of our current BI solutio
+help improve our content recommendation engine by creating new recommendation algorithms, test new features and presenting your findings
+provide analyses and visualizations of the data to our internal stakeholders
+help provide a data basis for decisions for new projects
+Your qualification:
+Strong knowledge of Machine Learning, Artificial Intelligence
+Knowledge of data modeling, algorihm design and ETL processes
+Experience with BI Systems (PowerBI, Tableau or similar)
+Knowledge of SQL, Python, bonus points for PHP, Scala, Terraform
+Knowledge of software engineering principles, git, agile team work
+University degree in Computer Science, Statistics, Mathematics, Physics or any other subjects with a mathematical/statistical focus, alternatively three years of work experience in a related field.
+What we offer:
+Every second Friday of the month you can work on personal projects during working hours
+Flexible working hours on a trust basis (currently 100% remote work, following Corona also high flexibility)
+30 days of vacation - During Christmas and New Years we close the office
+Numerous employee discounts through our parent company
+Social Days - 1 day per quarter you can get involved in social projects
+Be who you are - We have no dress code, wear what you feel comfortable in
+Fast and powerful hardware - Every two years you will receive a new laptop
+We have in-house IT - Your computer problems will be solved on the same day
+Sustainability - We support various charitable projects that promote human rights, integration, education, etc.
+Free fresh fruit and drinks in the office 
+Extensive training and development opportunities, such as the plista Academy, as well as ongoing leadership development
+A dedicated and friendly team with a passion for new technologies and media
+Fast decision-making processes, flat hierarchies and an open corporate culture
+Online sports offers such as yoga and meditation
+A family-friendly company with a company daycare center
+Regular team events - After Corona also finally in person again
+A beautiful and modern office in the heart of Berlin-Mitte with plenty of space for creative work and many green plants for a feel-good atmosphere

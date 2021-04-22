@@ -1,0 +1,13 @@
+Data Scientist Process Intelligence (m/w/d) für KI-Plattform in Dresden
+Symate GmbH
+Gestalte mit uns den Bereich der KI-gestützten Prozessoptimierung und unterstütze uns ab sofort (unbefristet Voll-/Teilzeit) und mit vollem Engagement als Data Scientist Process Intelligence (m/w/d) am Standort Dresden. Ausgehend von der Aggregation großer Datenmengen und deren analytische Modellierung implementierst du mit Mitteln von funktionaler Programmierung und Streaming Technologien die Grundlagen für interaktive Nutzerumgebungen, in denen komplexe Sachverhalte visualisiert und erforschbar sind. Hierbei greifst du sowohl zurück auf prototypische vorliegende Pipelines, sowie ergänzt bestehende Analysewege und bist beteiligt an Neuentwicklungen aus den Bereichen Deep Learning und Data Mining. Des Weiteren erwarten dich hoch spannende high-end Industrieprozesse unserer global agierenden Kunden und ein internationales, 20-köpfiges Team aus Entwicklern, Mathematikern und Ingenieuren. Wir sind überzeugt davon, durch automatisierte Datenanalyse und KI Produktionsprozesse für die digitale Zukunft fit zu mache.
+Deine neue Herausforderung:
+Umsetzung von Datenanalyse Pipelines unter Einsatz funktionaler Programmierung und Streaming Technologien und dessen Implementierung in web basierte Anwendungen von Detact
+Entwicklung von intelligenten Modellen und Software zur Echtzeitanalyse, Vorhersage und Handlungsunterstützung/ Selbstregelung von Produktionsprozessen
+Gelegentliche Präsentationen der Ergebnisse und Vorgehensweisen bei externen und internen Stakeholdern
+Auseinandersetzen mit kundenspezifischen Produktionsprozessen und deren logische Zusammenhänge.
+Austausch mit Fachexperten und Systemlieferanten
+Was Du mitbringen solltest:
+Solide Programmierkenntnisse in Scala oder ein stark ausgeprägter Java Background mit dem ...
+Dies ist eine Anzeige von ITsax.de des Empfehlungsbundes. Alle Details erfahren Sie in der Originalanzeige auf https://www.itsax.de/jobs/149330/data-scientist-process-intelligence-m-strich-w-strich-d-fuer-ki-plattform-in-dresden. Wenn Sie hier auf die Schaltfläche "Bewerben" klicken, werden Sie zur Originalanzeige weitergeleitet, um sich bei Symate GmbH direkt zu bewerben."
+Schlagworte: Java, Java-entwickler, Programmierung, Netzwerk, Software-Entwicklung, Datenbanken, JavaEE, Java-Softwareentwickler, Scala, KI, Python, R, Softwareentwickler, Softwareentwicklung, Software, Cloud, Künstliche Intelligenz.

@@ -1,0 +1,39 @@
+Senior Data Scientist
+Sabre
+Location:
+Sabre Corporation is a leading technology provider to the global travel and tourism industry. Headquartered in Southlake, Texas, USA, Sabre operates offices in approximately 60 countries around the world. At Sabre, we make travel happen. Positioned at the center of the business of travel, our platform connects people with experiences that matter in their lives. Today, Sabre is creating a new marketplace for personalized travel. It is our people who develop and deliver powerful solutions that meet the current and future needs or our airline, hotel and travel agency customers. Join our journey!
+Airline industry is going through a drastic transformation in the area of retailing and distribution that requires very advance data analytics support to optimize revenue performance and customer experience. Recently introduced concepts of Offer/Order Management and Continuous Dynamic Pricing significantly expand opportunities for engaging with travelers through multiple touch points and creating personalized offers accounting for individual preferences and market context. These practices can substantially benefit from a combination of statistical and machine learning techniques leveraging huge volumes and variety of consumer and competitive data available in airline industry.
+The Data Science Engineer applies expert level statistical analysis, data modeling, and predictive analysis on strategic and operational problems in airline industry. As a key member of the Sabre Operations Research team, you will leverage your statistical and business expertise to translate business questions into data analysis and models, define suitable KPIs, and graphically present results to a wide range of audiences including internal and external clients, sales, and development team. In addition, you will source data from multiple different data sources, write high-quality data manipulation scripts in R, Python, Perl, bash, etc, develop and apply data mining and machine learning algorithms for advanced analysis and prediction. You will also utilize your strong communication skills to work with developers to support product development cycles and decision makers who need empirical data to promote sales and growth.
+Responsibilities
+• Work with subject matter experts from airlines to identify opportunities for leveraging data to deliver insights and actionable prediction of customer behavior and operations performance.
+• Assess the effectiveness and accuracy of new data sources, data gathering and forecasting techniques.
+• Develop custom data models and algorithms to apply to data sets and run proof of concept studies.
+• Leverage existing Statistical and Machine Learning tools to enhance in-house algorithms.
+• Collaborate with software engineers to implement and test production quality code for forecasting and data analytics models.
+• Develop processes and tools to monitor and analyze data accuracy and models’ performance.
+• Demonstrate software to customers and perform value proving benchmarks. Calibrate software for customer needs and train customer for using and maintaining software.
+• Resolve customer complaints with software and respond to suggestions for improvements and enhancements.
+Job Requirements
+Required Qualifications
+• Advanced Degree in Statistics, Operations Research, Computer Science, Mathematics, Machine Learning or related Quantitative disciplines.
+• Solid programming skills with knowledge of R, SQL, Python, PySpark or other data-extraction and analysis tools and programming languages such as Java, JavaScript or C++.
+• Experience with deployment of machine learning and statistical models on a cloud and leveraging services in AWS or Google Cloud.
+• Proven ability to apply modeling and analytical skills to real-world problems.
+• Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+• Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Desirable Qualifications
+• Familiarity with airline, hospitality or retailing industries and decision support systems employed there.
+• Experience developing customer choice models, price elasticity estimation and market potential estimation.
+• Understanding of airline distribution, pricing, revenue management, NDC and Offer/Order Management concepts.
+Benefit
+• Profit from our VIP medical package with free travel insurance and dental care, sport medicine and life insurance
+• Join the tax deduction program (if your job is eligible for it)
+• Enjoy attractive parental benefits beyond the legally required
+• Lift your qualifications through wide range of trainings and get technical certification reimbursement
+• No dress code, flexible working time and additional day off
+• Recommend your friends and get a very attractive referral bonus
+• Take care of your well-being with free access to a Premium version of the Headspace application
+• Possibility of full remote work
+• Use your car or bike to get to the office - free of charge parking lot for employees
+We will give careful consideration to your application and review your details against the position criteria. You will receive separate notification as we progress your application. Please note that only candidates who meet the minimum requirements will proceed in the selection process. To learn more about the people and culture at Sabre, follow us on Twitter, Facebook and LinkedIn
+Stay connected with Sabre Careers

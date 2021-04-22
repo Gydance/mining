@@ -1,0 +1,24 @@
+Senior Data Analyst (w/m/d)
+Deutsche Bahn AG
+Stellenbeschreibung
+Wenn es darum geht, zukünftig Millionen Fahrgäste und tausende Züge auch digital auf den Weg zu bringen, braucht es die besten IT-Experten. 8.000 haben wir schon, aber längst nicht genug. Als Projektleiter, Berater, Entwickler oder IT-Architekt ist jetzt die spannendste Zeit einzusteigen und in einem starken Team wegweisende Lösungen und Großprojekte in den Bereichen Mobilität, Infrastruktur und Logistik umzusetzen.
+Als Team EDDI (Enable Data Driven Insights) befähigen wir unsere Kunden, Erkenntnisse durch Daten für ihr Kerngeschäft zu generieren und so die Entscheidungsfindung zu unterstützen. Als Partner unserer Kunden transformieren wir die im DB-Konzern vorhandenen Daten in Informationen und ermöglichen allen Nutzergruppen den Zugang zu diesen Informationen.Unser Leistungsportfolio umfasst dabei alle relevanten Services: Von Anforderungsanalyse über Datenintegration bis zur Visualisierung.
+Zum nächstmöglichen Zeitpunkt suchen wir Dich als Senior Data Analyst Business Intelligence für die DB Systel am Standort Frankfurt am Main.
+Deine Aufgaben:
+- Du konzipierst, entwickelst und verantwortest Business Intelligence- und Analytics-Lösungen im Big Data Umfeld.
+- Dabei berätst Du als direkter Ansprechpartner unsere Kunden hinsichtlich Gestaltung, Optimierung und Umsetzung und übernimmst auch die Anforderungsaufnahme.
+- Du leitest übergreifende Teams in komplexen Projekten, verantwortest diese und präsentierst Arbeitsergebnisse adressatengerecht auf allen Ebenen.
+- Auch die Planung und Organisation der Zusammenarbeit mit internen und externen Beteiligten liegt in Deiner Hand (inkl. Auswahl, Beauftragung und Steuerung).
+- Im Wertschöpfungsnetzwerk für BI-Technologien bist Du Ansprechpartner, repräsentierst das Team und teilst Dein Wissen
+Dein Profil:
+- Basis Deines Werdegangs bildet ein abgeschlossenes (Fach-)Hochschulstudium in (Wirtschafts-)Informatik oder einer vergleichbaren Fachrichtung bzw. eine Ausbildung im IT-Bereich mit entsprechender Berufserfahrung.
+- Du bringst langjährige Erfahrung sowohl in der Entwicklung als auch Beratung zu BI-Visualisierungs- und Analysetools mit, Dein technischer Fokus liegt auf Qlik Sense und Power BI.
+- Außerdem kennst Du Dich bestens mit ETL-Strecken und Datenbanken, v.a. SQL aus – dabei schlägt Dein Herz für Automatisierung und CI.
+- Agiles Anforderungs- und Projektmanagement sind Dir nicht fremd und Du scheust Dich nicht davor, Verantwortung zu übernehmen.
+- Fließende Deutschkenntnisse runden Dein Profil ab.
+Deine Vorteile
+* Wir unterstützen Dich bei der Suche nach Kitaplätzen oder Ferienbetreuung für Deine Kinder. Außerdem kannst Du Auszeiten für die Pflege von Angehörigen oder Sabbaticals nehmen. Je nach Job ist eine flexible Gestaltung von Arbeitszeit/-ort möglich.
+* Gezielte und individuelle Weiterentwicklungsmöglichkeiten auf Fach-, Projekt- oder Führungsebene geben Dir eine langfristige Perspektive.
+* Du schaffst Großes und bekommst nicht weniger zurück: ein marktübliches Gehaltspaket mit i.d.R. unbefristeten Arbeitsverträgen und Beschäftigungssicherung sowie vielfältige Nebenleistungen und eine betriebliche Altersvorsorge.
+Chancengleichheit und selbstbestimmte Teilhabe Schwerbehinderter und Gleichgestellter sowie eine respektvolle Zusammenarbeit sind innerhalb des DB Konzerns fest verankerte Grundsätze. Deshalb werden schwerbehinderte und gleichgestellte Bewerberinnen und Bewerber bei gleicher Eignung bevorzugt berücksichtigt.
+Darüber hinaus haben wir den Anspruch, unabhängig von der sozialen oder ethnischen Herkunft, des Geschlechts, der Religion oder Weltanschauung, des Alters oder der sexuellen Identität und Orientierung allen Kandidatinnen und Kandidaten die gleichen Möglichkeiten des Berufseinstieges und der Aus- und Weiterbildung zu bieten. Wir fördern bewusst die Vielfalt und das Miteinander in unseren Teams.

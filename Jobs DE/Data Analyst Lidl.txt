@@ -1,0 +1,19 @@
+Data Analyst (m/w/d) Marketing
+Lidl
+VOLLZEIT, BERLIN, NECKARSULM
+Werde Teil des Bereichs Customer Interface bei Lidl Digital! Seit über zehn Jahren entwickeln, betreuen und internationalisieren wir in Zusammenarbeit mit der IT alle denkbaren digitalen Touchpoints für unsere Endkunden in ganz Europa. Dafür nehmen wir die sich ständig verändernden Bedürfnisse unserer Zielgruppe genau unter die Lupe und erarbeiten passende Lösungen und Applikationen. An unserem Hauptsitz in Neckarsulm (Region Heilbronn) und unserem Standort in Berlin laufen hierfür die Fäden zusammen. Um unser internationales Wachstum voranzutreiben, suchen wir digitale Experten, die sich in der Welt des Internets zu Hause fühlen, denen Kunden am Herzen liegen und die sich für Trends, Designentwicklungen und den Onlinehandel begeistern – am Standort Berlin oder Neckarsulm.
+Deine Aufgabe
+Du entwickelst in einem Scrum-Team Lösungen für BI Produkte im Bereich Customer Interface CRM, Marketing Dashboard, Recommendation Engine
+Du unterstützt unsere internen Online Marketing Fachbereiche als Experte bei der (Vor-)Verarbeitung und Auswertung großer Datenmengen
+Du kombinierst klassische Datentechnologien aus dem Data-Warehouse Bereich mit modernen Cloud-Architekturkomponenten: Azure Data Bricks, Data Factory, Event Hub, Functions, Blob Storage, Snowflake etc.
+Dein Profil
+Abgeschlossenes Studium mit dem Schwerpunkt (Wirtschafts-)Informatik, Software-Engineering oder eine vergleichbare Ausbildung mit entsprechender Berufserfahrung in diesem Bereich
+Du verfügst über Erfahrung in den Bereichen Big Data, Data Engineering oder Data Warehousing
+Du verstehst Data Strukturen (SQL & NoSQL), kannst diese modellieren und hast einschlägige Programmiererfahrung in Programmiersprachen zur Datentransformation (Python, Java etc.)
+Du hast Spaß an der Verknüpfung (un)strukturierter Informationen mit tabellenbasierten Daten und ETL Tools gehören zu Deinem Handwerkszeug
+Kenntnisse von Cloud-Plattformen Datenverarbeitungswerkzeugen (AWS, Azure oder GCP)
+Du hast bereits Erfahrungen im E-Commerce Umfeld (insbesondere Online Marketing) gesammelt
+Du hast große Lust und Motivation, Dich in herausfordernde fachliche wie technische Themen einzuarbeiten und zu lösen
+Du sprichst Deutsch und Englisch fließend
+Deine Vorteile
+Wir bieten dir einen Einstieg in die schnelllebige Welt des E-Commerce. Es erwarten dich eine tolle Mannschaft, spannende Aufgaben und eine attraktive Vergütung. Während deiner intensiven Einarbeitungsphase werden dich deine neuen Kollegen und ein persönlicher Pate dabei unterstützen, schnell im Team, in deiner neuen Rolle und in der Region anzukommen. Deine Entwicklung liegt uns am Herzen, denn nur wenn unsere Mitarbeiter sich weiterentwickeln, können auch wir wachsen. Werde auch du ein Teil unseres Teams und gestalte so den Onlinehandel von Lidl aktiv mit. Wir freuen uns auf dich!

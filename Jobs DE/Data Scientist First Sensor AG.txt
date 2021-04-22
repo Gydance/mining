@@ -1,0 +1,29 @@
+Data Scientist (m/w/d)
+First Sensor AG
+Beschreibung
+data scientist (m/w/d)
+wir suchen sie zur verstärkung unseres teams am standort berlin-oberschöneweide als data scientist (m/w/d)
+ihre aufgaben
+analyse, darstellung und statistische interpretation komplexer datenbestände 
+erschließung vorhandener und verteilter datenquellen zur entscheidungsunterstützung 
+fachliche beratung zur aussagefähigkeit / signifikanz von statistischen auswertungen und versuchsplanung 
+aufbereitung von datensätzen zur analyse und validierung mit „r“ 
+konzeption, weiterentwicklung und betrieb von reportinglösungen 
+entwickelung von methoden und modellen, um messungen zu optimieren und aufwände zu reduzieren 
+ihr profil 
+erfolgreich abgeschlossenes studium in naturwissenschaften, mathematik, ingenieurwissenschaften, data science, informatik oder einem vergleichbaren studiengang 
+fundierte kenntnisse in mathematisch-statistischen verfahren, uni- und multivariater analyse sowie visualisierung 
+informatikkenntnisse und kenntnisse in der entwicklung und umsetzung von algorithmen 
+erfahrung in der programmierung und datenbankabfragen mit „r“, python, sql oder anderen sprachen 
+kenntnisse im bereich der halbleitersensorik sind vorteilhaft 
+selbstsicheres auftreten und durchsetzungsfähigkeit 
+hohe eigeninitiative sowie schnelle auffassungsgabe 
+ausgeprägte lösungskompetenz 
+konzentrierte, sorgfältige und zuverlässige arbeitsweise sowie ein hohes maß an teamfähigkeit und flexibilität 
+gute englisch- und deutschkenntnisse in wort und schrift 
+wir bieten 
+eine anspruchsvolle aufgabe mit gestaltungsspielraum in einem wachsenden, zukunftsorientierten markt 
+kurze entscheidungswege und offene kommunikationsstrukturen in einem dynamischen arbeitsumfeld 
+interessiert? 
+dann bewerben sie sich per e-mail (jobs.fso@first-sensor.com) mit ihren vollständigen bewerbungsunterlagen (in einer datei) und der angabe ihrer gehaltsvorstellung und ihres frühestmöglichen eintrittstermins.
+ 

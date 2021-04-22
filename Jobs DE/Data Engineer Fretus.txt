@@ -1,0 +1,22 @@
+Data Engineer (m/w/d) 154-6139
+Fretus
+Stellenbeschreibung
+Data Engineer (w/m/d) gesucht - Für den Standort Stuttgart, suchen wir ab sofort einen Data Engineer (w/m/d). Bis zu 80% Remote-Arbeit ist möglich.
+Ihre Aufgaben
+-  Entwerfen und Entwickeln von Datenintegrationspipelines zur Bereitstellung von Datensätzen für Analytics & Maschine Learning Anwendungsfälle für maschinelles Lernen
+- Kontinuierliche Optimierung von Methoden und Werkzeugen innerhalb der hauseigenen Datenplattform 
+- Lösen von projektbezogenen Datenanalyseproblem
+Ihr Profil 
+- Mindestens 2 Jahre Erfahrung in der Datenextraktion, - Transformation und -Modellierung
+- Sehr gute Kenntnisse in Python sowie SQL
+- Praktische Erfahrung in der Datenverarbeitung mit Kafka/Spark
+- Fundierte Kenntnisse von Datenbanktechnologien, Erfahrung mit Exasol wäre ein großes Plus
+- Tiefes Verständnis der AWS-Datenservices
+Benefits
+- Mitarbeiterrabatte auf Online-Shops
+- Kostenloser Sportunterricht 
+- Fahrrad-Leasing 
+- Und vieles mehr
+Wenn Sie sich für diese Position interessieren, senden Sie uns gerne Ihre aussagekräftigen Bewerbungsunterlagen mit Angabe eines möglichen Starttermins vorzugsweise per Email an karriere@fretus-gmbh.de. Gerne helfen wir Ihnen auch bei Fragen weiter!
+oder per Online-Bewerbung
+Wir freuen uns auf Ihre Bewerbung!

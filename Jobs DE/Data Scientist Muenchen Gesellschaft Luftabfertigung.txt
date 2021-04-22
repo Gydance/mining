@@ -1,0 +1,31 @@
+Data Scientist (m/w/d)
+München Gesellschaft für Luftabfertigungen GmbH
+Beschreibung
+Data Scientist (m/w/d)
+Zum nächstmöglichen Zeitpunkt suchen wir Sie als
+Data Scientist (m/w/d)
+Die AeroGround ist ein Tochterunternehmen der Flughafen München GmbH und ist Marktführer im Bereich der Bodenverkehrsdienstleistungen am Flughafen München.
+Der Bereich IT-Management bündelt alle Maßnahmen zur Weiterentwicklung und Optimierung der IT-Systeme innerhalb der AeroGround. Das Aufgabenfeld des Data Scientist (m/w/d) beinhaltet, aus unübersichtlichen Datenmengen für das Unternehmen wertvolle Informationen zu destillieren und aufzubereiten. Dies wird mittels Abfragen, Algorithmen und Analysetools durchgeführt. Zusammenhänge müssen schnell erkannt, überprüft und Ergebnisse kommuniziert werden.
+Ihre zukünftigen Aufgaben
+Entwicklung und Pflege von Qualitäts- und Prozesskennzahlen in Zusammenarbeit mit den Fachabteilungen und dem Konzern (QP) sowie das eigenständige Bereitstellen entsprechender Reports
+Leitung und Mitarbeit bei Projekten und Vorhaben mit dem Themenschwerpunkt Reporting und Leistungserfassung
+Selbstständige, fachliche Systembetreuung des BI-Systems der AeroGround
+Entwickeln von Algorithmen für die Validierung, Aufbereitung und Modellierung von Daten
+Entwerfen und Implementieren von Logiken, Metriken, Dashboards und Berichten zur Unterstützung von Unternehmensentscheidungen sowie Kommunizieren von Data-Science-Lösungen in Zusammenarbeit mit den Fachabteilungen in einem agilen Team
+Das bringen Sie mit
+Sie haben ein erfolgreich abgeschlossenes Studium der Informationswissenschaften, der Wirtschaftswissenschaften mit Schwerpunkt IT oder eine vergleichbare Ausbildung sowie einschlägige Berufserfahrung im Bereich Datenmanagement oder Reportingsysteme.
+Sie bringen Erfahrung in der Arbeit mit relationalen Datenbanken und Architekturen (SQL Datenbanken) mit, verfügen über ausgeprägte Kenntnisse bei der Konzeption und Auswertung relationaler und multidimensionaler Datenbanken sowie bei der Erstellung von grafischen Reports.
+Sie haben die Fähigkeit und Freude daran komplexe Sachverhalte leicht verständlich zu vermitteln, darzustellen und zu präsentieren.
+Ihre Kenntnisse des MS-Office Pakets (insbes. Excel und PowerPoint) sind sehr gut.
+Ihr Abstraktionsvermögen und Ihr ausgeprägtes analytisches und konzeptionelles Denken zeichnen Sie aus.
+Für Ihr sehr hohes Maß an Eigeninitiative, Selbstständigkeit und Belastbarkeit werden Sie geschätzt.
+Sie zeigen die Bereitschaft zur ständigen Weiterbildung sowie zu gelegentlichen Dienstreisen.
+Mit einer gesetzlich vorgeschriebenen Sicherheitsüberprüfung sind Sie einverstanden, idealerweise haben Sie den Führerschein der Klasse B.
+Gute Gründe, warum Sie Teil der Flughafenfamilie werden sollten
+Einzigartiges Arbeitsumfeld
+Essensgeldzuschuss für alle Kantinen und Betriebsrestaurants am Campus
+Betriebseigene Kindertagesstätte mit Arbeitgeberzuschuss sowie Angebote zur Kinderferienbetreuung
+Tarifliche und übertarifliche Leistungen, wie Jahressonderzahlung, Fahrtkostenzuschuss, Jobtickets, betriebliche Altersvorsorge
+Haben wir Ihr Interesse geweckt?
+Starten Sie mit uns durch und bewerben Sie sich gleich online mit aussagekräftigen Unterlagen (Anschreiben, Lebenslauf und Nachweise). Wir freuen uns, Sie kennenzulernen!
+ 

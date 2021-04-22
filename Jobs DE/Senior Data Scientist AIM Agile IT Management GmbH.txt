@@ -1,0 +1,36 @@
+SENIOR DATA SCIENTIST (M/W/D)
+AIM Agile IT Management GmbH
+Als Senior Data Scientist (m/w/d) realisierst Du zusammen mit Deinen Kollegen – Data/DevOps/UI Engineers – innovative Lösungen für unsere Kunden und entwickelst unsere KI Produkte weiter. In unseren Forschungsprojekten erarbeitest Du innovative Modelle und Verfahren. Durch agiles Vorgehen erreichst Du dabei zügige Ergebnisse und Erkenntnisse zur Machbarkeit. Du hast Erfahrung und tiefgehendes Wissen mit Methoden und Modellen in Machine Vision und/oder Predictive Analytics und willst diese im Austausch mit unserem Data Science Team weiter ausbauen.
+Verstärke unser erfolgreich wachsendes AI/Machine Learning Team am Standort Hannover oder Osnabrück!
+Aufgaben
+Abhängig von Deinen Stärken und Erfahrungen nimmst Du vielfältige Aufgaben war oder spezialisierst Dich auf bestimmte Schwerpunkte:
+Analyse und Übersetzung von Aufgabenstellungen in KI Lösungen
+Exploration, Analyse und Visualisierung komplexer, großer Datenmengen
+Realisierung skalierbarer Data/Feature Processing Pipelines
+Erprobung, Auswahl und Verbesserung von Machine Learning Modellen
+Nutzung analytischer und statistischer Verfahren
+Anwendung von Verfahren für Modell Vergleich, Auto ML und Explainable AI
+Produktive Integration und Automatisierung von Modell Lebenszyklen
+Einbettung in Lösungen für Endanwender (Human-in-the-Loop, Active Learning)
+Einbettung in das Monitoring der Modell Leistung – Erkennung von Concept Drifts
+Refactoring und Retrofitting in unsere Standardlösungen
+Enge Zusammenarbeit mit den Teams für Software Engineering und DevOps
+Unser Team sorgt dabei für kontinuierlichen Wissensaustausch durch Schulungen, Reviews und gemeinsame Arbeit an Aufgabenstellungen.
+Qualifikation
+Abschluss im Bereich Mathematik, Informatik, Cognitive Science o.ä. mit Schwerpunkt KI/Machine Learning oder vergleichbare Ausbildung
+Du besitzt fundierte Kenntnisse und praktische Erfahrung in der Anwendung von Methoden zur Analyse, Verarbeitung und Visualisierung von Daten
+Idealerweise verfügst Du über gute Kenntnisse in den Programmiersprachen Java, Python, R oder gute Grundlagen für einen schnellen Einstieg
+Du hast bereits mit verschiedenen Frameworks und Komponenten gearbeitet – z.B. SciKit, Keras, Tensorflow, OpenCV, Pandas, mlflow
+Du arbeitest gern im Team und präsentierst Deine Arbeitsergebnisse gern im Team und vor Kunden
+Gute Deutsch- und Englischkenntnisse
+Benefits
+Hohe Aufmerksamkeit für Deine persönliche Entwicklung
+Intensive Weiterbildungsmöglichkeiten (z.B. agiles Projektmanagement)
+Eigenverantwortliches Arbeiten mit viel Gestaltungsspielraum
+Eine agile, professionelle und innovative Organisation in autonomen Teams
+Flache Hierarchien, kurze Abstimmungswege und engagierte Kollegen
+Vertrauensarbeitszeit, Möglichkeiten zur Heimarbeit und ein flexibles Arbeitszeitmodell
+Einen attraktiven Arbeitsplatz in zentraler Lage in Hannover (List), direkt an der Eilenriede
+Starken Kaffee, frisches Obst und gekühlte Soft-Drinks
+Wir freuen uns auf Deine aussagekräftigen Bewerbungsunterlagen unter Angabe Deiner Gehaltsvorstellungen
+und Deines gewünschten Eintrittstermins.

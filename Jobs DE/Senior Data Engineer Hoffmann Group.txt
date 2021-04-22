@@ -1,0 +1,29 @@
+Senior Data Engineer (w/m/d)
+Hoffmann Group
+Stellenbeschreibung
+Mehr als 4.000 hoch motivierte MitarbeiterInnen in über 50 Ländern machen mit ihrer Leistung die Hoffmann Group zu dem, was sie heute ist: Europas führender Partner für Qualitätswerkzeuge, Betriebseinrichtungen und Persönliche Schutzausrüstung und „TOP nationaler Arbeitgeber 2021“ in Deutschland (ausgezeichnet von FOCUS). Unser gesundes Wachstum spiegelt sich unter anderem im weltweiten Jahresumsatz von mehr als 1,3 Milliarden Euro in 2020 wider. Als Familienunternehmen bieten wir eine Arbeitsumgebung, die von gegenseitigem Vertrauen geprägt ist und in der sich Leistung und Engagement lohnen. Wir fördern Eigeninitiative, Kreativität und eigenverantwortliches, ergebnisorientiertes Handeln.
+Zur Verstärkung unseres Teams in bei der Hoffmann SE in München suchen wir zum nächstmöglichen Zeitpunkt einen Senior Data Engineer (m/w/d). 
+Ihre Aufgaben:
+Aufbau von Prozessen zur Unterstützung von Datentransformation, Datenstrukturen, Metadaten, Abhängigkeits- und Workload-Management in enger Zusammenarbeit mit einem Team aus Frontend, Data Scientists, BI-Manager und PO sowie Entwurf von Datenintegrationen und Datenqualitäts-Frameworks
+Erstellung einer Anforderungsanalyse an die zukünftige ETL-Prozesse hinsichtlich skalierbarer Daten Pipelines (Aufnahme von Daten von der Quelle bis hin zur Verfügbarkeit der Daten im Frontend); Entwicklung und Wartung skalierbarer Datenpipelines mit ADF hinsichtlich der zuvor erstellten Anforderungsanalyse und Aufbau neuer Einbindungen, um die kontinuierliche Zunahme von Datenvolumen und Komplexität zu unterstützen
+Zusammenarbeit mit Analytik- und Geschäftsteams zur Verbesserung von Datenmodellen, welche in Business Intelligence-Tools einfließen, um die Datenverfügbarkeit zu erhöhen und die datengestützte Entscheidungsfindung in der gesamten Organisation zu fördern
+Implementierung von Prozessen und Systemen zur Überwachung der Datenqualität um sicherzustellen, dass die Produktionsdaten immer korrekt für die davon abhängigen Key Stakeholder und Geschäftsprozesse sind; Entwicklung eines Data Katalog unter Verwendung vorhandener Metadaten zur Erstellung einer Übersicht über alle Datenquellen und ETL-Prozesse
+Aufbau einer Layerarchitektur (Staging, Core, Presentation) hinsichtlich der Datenverarbeitung und -bereitstellung und Erstellung einer ausführlichen technischen Dokumentation
+Ihre Kompetenzen:
+mindestens 5 Jahre Berufserfahrung als Data Engineer (m/w/d)
+Erfahrung im Umgang mit Azure Services insbesondere ETL-Technologien wie Azure Data Factory, SSIS o.ä.
+Erfahrung mit relationalen sowie NOSQL-Datenbanken und Erfahrung im Umgang mit großen Datenmengen in einem Data Warehouse
+Kenntnisse über Best Best Practices und IT-Operationen (DataOps); Erfahrung mit oder Kenntnisse über agile Software-Entwicklungsmethodiken
+Sehr gute Englischkenntnisse in Wort und Schrift, idealerweise Deutschkenntnisse
+Ihre Vorteile:
+kostenlose Kantine mit regionalen und biologischen Produkten
+Sportkurse und Betriebsarzt
+Attraktives Gehaltspaket mit Leistungskomponente und vielfältigen Sozialleistungen, wie z.B. vermögenswirksamen Leistungen, betrieblicher Altersvorsorge
+Fahrtkostenerstattung
+flexible Arbeitszeiten, Home-Working Möglichkeit
+30 Urlaubstage
+„Social Days“ zusammen mit unserer Hoffmann Foundation
+Intensive Einarbeitung mit bereichsübergreifenden Schulungen und Patenprogramm sowie ein dauerhaftes Weiterbildungsangebot unserer hauseigenen Akademie
+Ihr Weg zu uns:
+Finden Sie sich hier wieder? Bewerben Sie sich jetzt online mit vollständigen Bewerbungsunterlagen inkl. Entgeltvorstellung und möglichem Eintrittsdatum.
+Hoffmann GmbH Qualitätswerkzeuge, Martina Buitkamp  – Corporate Human Resources, Haberlandstraße 55, 81241 München, Internet: www.hoffmann-group.com

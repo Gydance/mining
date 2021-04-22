@@ -1,0 +1,19 @@
+Data Scientist (w/m/d)
+Handelsblatt GmbH
+Deine Aufgaben:
+Konzeption und Durchführung von Data-Science Projekten zur Unterstützung unserer Fachbereiche und unseres Managements bei der Entscheidungsfindung für aktuelle Themen und bei der Analyse und Aufdeckung von Verbesserungspotentialen zur Steuerung der Geschäftsprozesse
+Entwicklung und Operationalisierung von Scores (bspw. Artikelscore) und Modellen (bspw. Churn-Prediction, Retention), Implementierung von darauf basierenden Dashboards oder Reportings und aktive Schulung der Fachbereiche
+(Proaktive) Analyse von Daten aus verschiedenen Fachbereichen, wie Vertrieb, Produkt und Redaktion, Erkennen komplexer Zusammenhänge und Muster und Ableitung von Handlungsempfehlungen
+Gemeinschaftliche Erarbeitung einer business-case-orientierten Daten-Infrastruktur mit den Data-Engineers
+Dein Profil:
+Erfolgreich abgeschlossenes Studium der Betriebswirtschaft/Informatik/Mathematik oder eines verwandten Studiengangs
+Erfahrung in den Bereichen Data Science, Data Mining, Dashboarding (Tableau), Daten-Analyse und A/B Testing und Erfahrung mit statistischen Analyseverfahren wie Regressions- oder Cluster-Analysen
+Sehr gute Kenntnisse in SQL und Python, Kenntnisse von Datenbankstrukturen und dem Azure Machine Learning Stack von Vorteil
+Hohe Affinität für digitale Produkte und großes Interesse an den Themen Data Science und Artificial Intelligence
+Erfahrungen im Projektmanagement und in der Beratung interner Stakeholder
+Wir bieten:
+Eine faire und leistungsorientierte Vergütung
+Ein angenehmes und modernes Arbeitsumfeld
+Mobiles Arbeiten
+Gute Sozialleistungen (wie z.B. 30 Tage Urlaub pro Jahr, Zuschuss zu VL/BAV, vergünstigte Firmentickets, Unterstützung bei der Kinderbetreuung, Maßnahmen zur betrieblichen Gesundheitsförderung, attraktive Vergünstigungen bei vielen Kooperationspartnern)
+Individuelle Weiterentwicklungsmöglichkeiten

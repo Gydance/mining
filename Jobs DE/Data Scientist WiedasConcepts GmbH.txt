@@ -1,0 +1,25 @@
+Data Scientist (m/w/d)
+WidasConcepts GmbH
+Die Widas Technologie Services ist ein global agierendes IT-Service Unternehmen mit Sitz in Wimsheim (Stuttgart) und Niederlassungen in Essen und München. Widas TS entwickelt intelligente Softwarelösungen für die digitalisierte Zukunft ihrer Kunden. In hoher Performance werden von den fachlichen Anforderungen über die Solution Architektur, die Implementierung und der Paketierung flexible Softwarebausteine geschaffen, die automatisch deployed und in der Cloud für unsere Kunden betrieben werden.
+Zur Unterstützung unseres Entwicklerteams suchen wir zum nächstmöglichen Zeitpunkt für unsere Standorte Wimsheim, Essen und München eine(n)
+Deine Aufgabe:
+Analyse und Abstimmung der Kundenanforderungen
+Untersuchung von Daten und ableiten von Anforderungen für eine bestmögliche Auswertung​
+Entwicklung, Training und Test von Modellen im Umfeld NLP, Image-Processing und Data Analytics in den Domänen unserer Kunden
+Technische Umsetzung der Softwarelösungen auf Basis moderner, skalierbarer und verteilter ML/KI-Plattformen
+Was wir Dir bieten:
+Unbefristeter Arbeitsvertrag
+Agiles Arbeiten in einem begeisterten Team​
+Spannende Technologien und Projekte an der Leading Edge​​
+Die Wahl zwischen Mac oder Dell sowie deinem bevorzugten Betriebssystem​
+Offene Türen, gemeinsame Events, firmenweites „Du“ sowie Weiterbildungsmöglichkeiten
+Getränkeflatrate für Wasser, Tee, Kaffee und jederzeit frisches Obst​
+Dein Profil, was uns überzeugt:​
+Studium der (Wirtschafts-)Informatik oder vergleichbare Ausbildung​
+Kenntnisse über BigData Technologien, wie Spark, Flink, Elastic, Keras, Tensorflow
+Erfahrung in der Softwareentwicklung mit Python, Scala, JavaScript, (No)SQL und den jeweils gängigen Frameworks​
+Spaß an agiler Softwareentwicklung sowie Motivation Dich in neue Technologien einzuarbeiten​
+Teamfähigkeit, Einsatzbereitschaft, Selbständigkeit und eine proaktive Arbeitsweise
+Fließende Deutsch- und Englischkenntnisse
+Wir freuen uns auf Deine Bewerbung!
+Benötigte Anlagen: Anschreiben, Lebenslauf, Zeugnisse

@@ -1,0 +1,37 @@
+Data Scientist, Schatzsucher und Managementberater (m/w/d)
+CTcon GmbH
+Das Profil mag ungewöhnlich erscheinen. Das Angebot dazu ist es ebenfalls. Doch wir sind sicher: Mit dieser Stelle schafft CTcon neue Möglichkeiten für den Data Scientist, sein Spektrum zu erweitern und ganz persönliche Stärken auch in die Managementberatung einzubringen.
+Die Idee
+Wir suchen Menschen, die drei Fähigkeiten vereinen. Erstens ein Talent für den Umgang mit Zahlen, für deren Aufbereitung, Analyse und Visualisierung (Data Scientist). Zweitens das Talent, mit kreativem Spürsinn Hinweise und Zusammenhänge in den Zahlen zu entdecken, die wahrscheinlich sonst niemand sieht (Schatzsucher). Und drittens das Talent, Manager und deren Denkweisen zu verstehen, um ihnen die gewonnenen Erkenntnisse aus der Schatzsuche so einfach und klar zu präsentieren, dass ein praktisches Verständnis für die richtigen Lösungen der Probleme entsteht (Managementberater).
+Wer kann so etwas?
+Menschen, die in Statistiken mehr sehen als nur Zahlen. Die in Verläufen, Entwicklungen und Trends Möglichkeiten für zum Beispiel vereinfachte Prozesse oder Automatisierungen erkennen. Und die dabei nicht nur ständig neugierig bleiben, sondern auch so motiviert und mitteilungsfreudig sind, dass sie ihre Ideen und Überzeugungen auf jeden Fall mit Kollegen und Auftraggebern teilen.
+Warum wollen wir das?
+Unsere Erfahrung zeigt, dass viele Data Scientists über ihre fachlichen Qualifikationen hinaus kreative und soziale Kompetenzen mitbringen, die sich als sehr wertvoll für ihre Arbeit erweisen. Diese einzubringen, kann im Berufsalltag ebenso produktiv wie befriedigend sein, weil man eben nicht nur in Zahlen denkt, sondern auch in Möglichkeiten.
+Mit Fachwissen und mit persönlicher Intuition im Sinne eines ganzheitlichen professionellen Wirkens. Im Ergebnis wollen wir damit auch unseren Kunden eine besondere Leistung bieten: das Unerwartete.
+Was haben wir zu bieten?
+Optimale Rahmenbedingungen: Innerhalb unseres Competence-Centers hast du die Freiheit, mit hochqualifizierten Kollegen Projekte voranzutreiben und neue Ideen im Umfeld modernster Technologien auszuprobieren.
+Flexible Arbeitsmodelle
+Freie Wahl des Bürostandortes mit Option zum nachträglichen Wechsel
+Homeoffice-Möglichkeit
+Bei Bedarf Anpassung des Arbeitseinsatzes
+Weiterbildungsangebot
+Begleitung durch persönlichen Coach
+Persönliches Bildungsbudget
+Fellow-Programm
+Außergewöhnliche Unternehmenskultur
+Open Door Policy und monatliche Meetings zu aktuellem Geschehen in unseren Büros
+Regelmäßige Mitarbeiterbefragung und Diskussion der Ergebnisse
+Teamevents, Sommerfeste, Offsites etc.
+Wie sieht dein Aktionsradius aus?
+Als Berater bei unseren Kunden und im Backoffice bist du für die konzeptionelle Ausarbeitung und operative Umsetzung von Datenanalysen, vorwiegend in den Bereichen Finance, Controlling, Marketing und Sales, zuständig. Du bedienst dich der gesamten Bandbreite des Themas Data Science:
+Anwendung statistischer Methoden wie deskriptive Analysen, Regressionsverfahren, Zeitreihenanalysen
+Verfahren im Bereich Data Mining & Machine Learning
+Erfahrung in der Umsetzung von Data Pipelines – Data Preprocessing über Analytics bis zur Data Story (z.B. Technologien wie R, Python, SQL, noSQL, Qlik, PowerBI, Tableau)
+Analyse großer Datenmengen mit Apache Stacks wie Spark und Cloud Technologien (AWS, MS Azure, GCP)
+Anwendung des Methodenwissens auf betriebswirtschaftliche Fragestellungen
+Managementorientierte Zusammenfassung und Präsentation wesentlicher Erkenntnisse
+Adressatengerechte Kommunikation komplexer, analytischer oder technischer Zusammenhänge
+Übernahme erster Teilprojektverantwortung
+Mitarbeit an Querschnittsaufgaben
+Wo könnte deine neue professionelle Heimat sein?
+CTcon ist eine führende, international ausgerichtete Managementberatung. Mit dem Schwerpunkt Unternehmenssteuerung und Controlling unterhalten wir Standorte in Düsseldorf, Bonn, Frankfurt und München. Mehr als die Hälfte der im DAX 30 notierten Konzerne setzen auf unsere branchenübergreifende Expertise.

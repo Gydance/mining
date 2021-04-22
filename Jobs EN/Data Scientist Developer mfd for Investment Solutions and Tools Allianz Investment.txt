@@ -1,0 +1,20 @@
+Data Scientist / Developer (m/f/d) for Investment Solutions and Tools
+Allianz Investment
+Job Purpose/Role
+The team of AIM Investment Management Life/Health in Stuttgart is responsible for designing and implementing the investment strategy for the portfolios of the German Life and Health insurance companies of Allianz, which alone constitute close to 50% of the Group’s insurance investment assets. As such, we cooperate closely with our colleagues within the global AIM network as well as our internal and external asset managers in developing our investment strategy and adapting it to the specific needs of the portfolios we manage.
+You would develop and implement up-to-date applications for every step along the AIM investment value chain. As a data scientist / developer you will have an unique opportunity to apply your experience in advanced analytics, computer science and other modern technologies to the effective and efficient management of our EUR 300bn+ German Life and Health investment portfolios.
+Key Responsibilities
+Support in all steps along the value chain of Investment Management Life/Health by implementing smart digital solutions and platforms for our business
+Development of new models and improved analysis methods with the help of machine learning (e.g. models for approximation of impact from change in capital markets or investment strategy on regulatory capital)
+Automate data-driven processes and improve their resilience. Further, extend and maintain our investment data architecture
+Utilize your data analysis skills to answer complex data driven questions with regard to our investment portfolio
+Engage in AIM digital community with focus on knowledge and best practice sharing across AIM hubs and teams
+Key Requirements/Skills/Experience
+Master degree in computer science, information technology (financial) mathematics, data science, business informatics or other quantitative areas; PhD is a plus
+Proven interest in financial sector (banking, investment, insurance etc.) and willingness to learn about investment management business
+Experience with data analysis and (statistical) machine learning models (e.g. neural networks)
+Good IT and programming skills in languages like Python, R, Java, C# or C++
+Solid knowledge of financial modelling and investment instruments
+Experience with cloud technology docker, distributed computing (e. g. Spark, Hadoop etc.) is a strong plus
+Ideally good knowledge of SQL database, experience in understanding and manipulating complex data from diverse sources
+Strong team player, ready to take over responsibility, passionate about digital transformation, getting-things-done mentality

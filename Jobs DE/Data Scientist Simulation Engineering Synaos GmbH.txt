@@ -1,0 +1,51 @@
+Data Scientist (m/w/d) Simulation Engineering
+Synaos GmbH
+SYNAOS ist ein 2018 gegründetes Software-Start-Up aus Hannover. Wir entwickeln ein Ökosystem zur Orchestrierung der Intralogistik mit Fokus auf autonome, mobile Robotik.
+Wir bieten
+Schnell wachsendes, top finanziertes Start-Up mit hoch motivierten und extrem ambitionierten Kollegen
+Herausfordernde Aufgaben beim Entwickeln unserer Software-Plattform mit cutting-edge KI-Optimierungsmethoden und modernen, skalierbaren Cloud-Technologien für autonome Robotik-Applikationen
+Pionierarbeit in der Intralogistik für die Fabrik und das Logistikzentrum der Zukunft
+Als ersten Kunden Volkswagen, einen DAX-Konzern
+Kreatives Arbeitsumfeld mit kurzen Entscheidungswegen (Gründer im gleichen Office)
+Hardware und Betriebssystem nach Wahl
+Beteiligungsprogramm für Mitarbeiter
+Unbefristete Arbeitsverträge sowie 30 Urlaubstage
+Flexible Arbeitszeiten inklusive Home-Office
+Deine Mission
+Bei welchen Aufgaben braucht die Abteilung Unterstützung?
+Die Projektrealisierung beim Kunden ist das letzte Puzzlestück jedes erfolgreichen Sofwareunternehmens. Im Professional Service sorgen unsere Software Engineers (Developer) dafür das Kundenlösungen schnell zur Verfügung stehen und unser Kernprodukt einen reibungslosen Anlauf garantiert.
+Simulation ist ein wichtiges Asset um Inbetriebnahme-Zeiten zu verkürzen 
+Projektrisiken im Anlauf können durch eine frühzeitige „virtuelle Inbetriebnahme“ minimiert werden
+Immer häufiger ist Simulation auch im Sales relevant da so die Leistungsfähigkeit unserer Algorithmen und des Produktes aufgezeigt werden kann
+Skalierung der Simulationsidee und Integration im Salescycle
+Was machst Du konkret?
+Prozessaufnahme und -klärung in Kundenprojekten
+Szenario-Definition im System entsprechend von Kundenprojekten (Entwicklung des Simulationsmodells)
+Durchführung von Simulationsstudien und Analyse geeigneter KPI‘s, die eine Aussage zur Performance geben
+Analyse von möglichen Engpässen und Ausarbeitung von Lösungsmöglichkeiten
+Interne Diskussion über Lösungsansätze zu Prozessproblemen
+Präsentation von Arbeitsergebnissen (intern und beim Kunden)
+Diskussion von Arbeitsergebnissen (intern und beim Kunden)
+Deine Werte
+Teamorientierung und leben einer Lernkultur mit stetigem, konstruktiven Feedback
+Selbständiges angehen von Problemen und kreatives Erarbeiten von Lösungen
+Pragmatisches und effizientes, aber dennoch sauberes Arbeiten
+Professionelles auftreten und Wertschätzen des Kunden
+Reisebereitschaft
+Sinn für Humor
+Das bringst Du mit
+Können
+Abgeschlossenes Studium der Fachrichtung Mathematik, Informatik, Maschinenbau oder Elektrotechnik, bzw. eine abgeschlossene Berufsausbildung zum Fachinformatiker in der Fachrichtung Anwendungsentwicklung oder eine vergleichbare Qualifikation wünschenswert
+Erfahrung in der Umsetzung von Simulationsprojekten
+Erfahrung im Umgang mit Analysetools
+Fließendes Englisch und idealerweise gutes Deutsch
+
+Technologie & Methoden
+Java
+Kenntnisse in Python/R hilfreich
+Git, ElasticSearch, Kibana, Kafka, MQTT, PostgreSQL gehören zu unseren täglichen Arbeitstools
+
+Einstellung
+Kommunikation und Fähigkeit zur Teamarbeit
+Strukturierte Arbeitsweise
+Umsetzungswille

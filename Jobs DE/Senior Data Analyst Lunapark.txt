@@ -1,0 +1,32 @@
+Senior Data Analyst (w/m/d)
+Lunapark
+DAS BRINGST DU IDEALERWEISE MIT:
+Du liebst und atmest Analytics und hast Lust darauf, Deinen Pioniergeist in konkreten Projekten von der ersten Idee bis zum fertigen Report umzusetzen und damit das digitale Business für unsere Kunden auf die nächste Stufe zu bringen.
+Mit der Google Cloud hast Du bereits mehrfach[HL1] gearbeitet. Du hast Hands-On-Erfahrung bei der Implementierung von Google Analytics und bist in der Lage, Anforderungen an Entwickler*innen zu definieren und technisch zu validieren.
+Dein Studium der Mathematik, Wirtschaftswissenschaften, Informatik, Statistik oder in verwandten Bereichen hast Du erfolgreich abgeschlossen.
+Einschlägige Erfahrung mit Google Analytics, DataStudio, BigQuery, Firebase, Tag Manager Arbeitsweise und GMP
+Du kennst Dich mit Datenbanken, Scripting und Programmiersprachen aus und besitzt technisches Know-how in Bezug auf Datenmodelle, Datenbankdesign, Data Mining und Segmentierungstechniken.
+Hohe analytische Fähigkeiten bei der Verarbeitung großer Informationsmengen und ein grundlegendes Verständnis von Webtechnologien zeichnen Dich aus.
+Du hast Spaß an der Erstellung von Abfragen, Berichten und Präsentationen.
+Du bist ein Teamplayer und kannst gut und auch in Englischer Sprache kommunizieren
+Wenn Du Lust auf viel Eigenverantwortung und Gestaltungsspielraum hast, bist Du bei uns genau richtig.
+SO SIEHT DEIN JOB AUS:
+In deiner Funktion als (Senior) Data Analyst oder (Senior) Web Analyst (w/m/d) leitest Du aus den Business-Needs Anforderungen an die Erhebung von digitalem Nutzerverhalten ab, definierst daraus ein Messkonzept und prüfst die technische Umsetzung. Auf Basis der erhobenen Daten machst Du die User Experience greifbar und vermittelst unseren Kunden mögliche Interpretationen und Ableitungen, um den weiteren Erfolg ihrer Angebote sicherzustellen.
+DEINE AUFGABEN
+Du leitest aus den Business-Needs Anforderungen an die Erhebung von digitalem Nutzenverhalten ab, definierst daraus ein Messkonzept und prüfst die technische Umsetzung.
+Auf Basis der erhobenen Daten machst Du die User Experience greifbar, vermittelst unsren Kunden mögliche Interpretationen und Ableitungen, um den weiteren Erfolg unserer Angebote sicherzustellen.
+Du bist Ansprechpartner*in für das gesamte Unternehmen hinsichtlich der genutzten Tools.
+In Zusammenarbeit mit Data Developern aus unserem Data Team baust Du die digitale Datenerhebung weiter aus und pflegst sie.
+Du bist sowohl für das Training und Enablement der verantwortlichen Kolleg*innen aus anderen Abteilungen (bspw. aus den Produktteams, dem Marketing usw.) als auch teamintern zuständig.
+Die Entwicklung und Bereitstellung von automatisierten Reports und Self-Service-Angeboten fallen in Deinen Verantwortlichkeitsbereich. Darüber hinaus bist Du für die Auswertung der Daten in Google Big Query zuständig.
+Präsentationen bei Kundenmeetings, Workshops und Webinaren
+Vermitteln von Know-How an Kunden und Kollegen
+WAS WIR BIETEN:
+Profitiere von den Erfahrungen eines qualifizierten Teams in dem du dich stetig austauschen kannst und der persönlichen Betreuung hinsichtlich einer fachlichen Entwicklung und Förderung deiner Lernziele
+Flexible Arbeitszeiten für Frühaufsteher und Langschläfer (Kernarbeitszeit ist von 10 bis 17 Uhr), Homeoffice möglich 
+Attraktive Sozialleistungen: Betriebliche Altersvorsorge mit Arbeitergeberzuschuss  
+Wir fördern Fort- und Weiterbildungsmaßnahmen  
+Teilnahme an Branchenveranstaltungen und -events 
+Fit und Fun: Yogamorgen für alle Interessierten 
+Durch die Möglichkeit eines Job-Tickets sparen unsere Mitarbeiter, die Bus- und Bahn fahren, 10 % gegenüber einem normalen Monatsabo 
+Der Rhein ist direkt vor unserer Tür, ideal für die Mittagspause

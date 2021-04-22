@@ -1,0 +1,22 @@
+Data Scientist 
+Solactive AG
+Job Overview
+Do you enjoy working with the latest technologies in the field of Data Mining, Big Data and Artificial Intelligence? Are you an innovative team player who is willing to challenge the status quo, drive innovation and apply agile best practices? Then you will very likely fit in our team!
+Your Tasks
+Developing data collection solutions (Information Extraction)
+Designing and implementing of Machine Learning algorithms
+Discovering new ideas and approaches for the collection of data
+Developing software prototypes
+Your Profile
+Experience in Natural Language Processing and Artificial Neuronal Networks / Deep Learning
+Word Embedding (Glove, Elmo, Bert, ...)
+Python | TensorFlow | Pandas | MongoDB | ...
+Hands-on approach
+Highly structured and motivated
+Good command of the English language
+Our Offer
+Be part of the Solactive family, a motivated team with an international setting
+Get to know the dynamics of an established, successful FinTech company
+Experience a modern start-up culture with a flat hierarchy and an agile team
+Seize the opportunity to develop personally and take over responsibility from day one
+Pleasant working environment in Dresden Neustadt with flexible working hours
